@@ -155,119 +155,7 @@ Quelles sont les problématiques littéraires intéressantes à aborder dans le 
 :::
 
 
-#### 2/ Faire une liste des concepts importants et les définir
-
-:::exemple collapsible Un exemple en EMC (secondes) sur le thème : fondements et fragilités du lien social
-
-Tu dois préparer un cours en éducation morale et civique sur les fondements et les fragilités du lien social à des élèves de secondes. Fais une liste de termes techniques sur ce sujet et donne leur définition. {.user}
-
-<div markdown class="IA">
-
-Bien sûr, voici une liste de termes techniques liés aux fondements et aux fragilités du lien social en éducation morale et civique, accompagnés de leurs définitions :
-
-##### Lien social :
-
-Définition : Le lien social se réfère aux relations interpersonnelles qui connectent les individus au sein d'une communauté ou d'une société. Il englobe les interactions, les normes, les valeurs et les institutions qui contribuent à la cohésion sociale.
-
-##### Cohésion sociale :
-
-Définition : La cohésion sociale représente le degré de solidarité, d'unité et de stabilité au sein d'une société. Elle mesure la capacité des individus à vivre ensemble harmonieusement malgré leurs différences.
-
-##### Capital social :
-
-Définition : Le capital social désigne les ressources provenant des relations sociales, telles que la confiance, la coopération et le soutien mutuel. Un niveau élevé de capital social favorise le bien-être collectif.
-
-##### Déviance sociale :
-
-Définition : La déviance sociale se réfère aux comportements, normes ou valeurs qui s'écartent des attentes ou des normes établies au sein d'une société, pouvant entraîner des conséquences négatives sur le lien social.
-
-##### Inclusion sociale :
-
-Définition : L'inclusion sociale vise à garantir la participation équitable de tous les individus à la vie sociale, économique et politique, en minimisant les barrières qui pourraient exclure certains groupes.
-
-##### Exclusion sociale :
-
-Définition : L'exclusion sociale se produit lorsque des individus ou des groupes sont volontairement ou involontairement marginalisés de la société, les privant ainsi d'accès aux ressources et opportunités essentielles.
-
-##### Multiculturalisme :
-
-Définition : Le multiculturalisme reconnaît et valorise la diversité culturelle au sein d'une société. Il encourage le respect des différences et la coexistence pacifique des différentes identités culturelles.
-    
-##### Intégration sociale :
-
-Définition : L'intégration sociale implique l'incorporation réussie des individus dans la société, en favorisant leur participation active et leur adhésion aux normes et valeurs communes.
-
-##### Anomie :
-
-Définition : L'anomie se réfère à un état de désintégration sociale où les normes et les valeurs perdent leur influence, entraînant une confusion et une perte de repères au sein de la société.
-    
-##### Solidarité :
-
-Définition : La solidarité représente le sentiment d'interdépendance et de responsabilité mutuelle entre les membres d'une société, contribuant à renforcer le tissu social.
-    
-##### Normes sociales :
-
-Définition : Les normes sociales sont des règles tacites ou explicites qui définissent le comportement attendu au sein d'une société, jouant un rôle clé dans la préservation du lien social.    
-    
-</div>
-
-
-:::
-
-:::exemple collapsible Un exemple en SVT (secondes) sur l'organisme pluricellulaire
-
-<div markdown class="user">
-Tu es un conseiller en pédagogie qui aide les enseignants à créer une liste de définitions des notions importantes sur un thème, avec un exemple à chaque fois
-Je suis un enseignant de sciences de la vie et de la Terre en lycée et je fais un cours sur l’organisme pluricellulaire pour des élèves de secondes.
-Voici les notions fondamentales décrites dans le bulletin officiel:
-cellule, matrice extracellulaire/paroi, tissu, organe ; organite, spécialisation cellulaire, ADN, double hélice, nucléotides (adénine, thymine, cytosine,guanine), complémentarité, gène, séquence.
-</div>
-
-<div markdown class="IA">
-Pour créer une liste de définitions des notions importantes sur le thème de l'organisme pluricellulaire, voici une ébauche de définitions accompagnées d'exemples pour chacune des notions que vous avez mentionnées :
-
-- Cellule : Unité de base structurale et fonctionnelle de tous les organismes vivants. Elle est considérée comme l'unité élémentaire de la vie.
-	- Exemple : Une cellule épithéliale qui tapisse l'intérieur de la bouche.
-
-- Matrice extracellulaire/Paroi : Ensemble complexe de molécules sécrétées par les cellules qui fournit un support structurel et biochimique aux cellules environnantes.
-	- Exemple : La matrice extracellulaire du cartilage, riche en collagène et en protéoglycanes.
-
-- Tissu : Groupe de cellules similaires et de leurs produits extracellulaires qui accomplissent une fonction spécifique.
-	- Exemple : Le tissu musculaire qui permet la contraction et le mouvement.
-
-- Organe : Structure composée de plusieurs types de tissus qui travaillent ensemble pour accomplir une fonction spécifique.
-	- Exemple : Le cœur, un organe composé de tissu musculaire, de tissu nerveux et de vaisseaux sanguins.
-
-- Organite : Compartiment spécialisé à l'intérieur d'une cellule qui remplit une fonction spécifique.
-	- Exemple : Les mitochondries, organites responsables de la production d'énergie.
-
-- Spécialisation cellulaire : Processus par lequel une cellule non différenciée devient transformée en une cellule avec une fonction spécifique.
-	- Exemple : Les globules rouges spécialisés dans le transport de l'oxygène.
-
-- ADN : Acide désoxyribonucléique, la molécule qui porte l'information génétique des organismes vivants.
-	- Exemple : L'ADN contenu dans le noyau d'une cellule de peau humaine.
-
-- Double hélice : Structure de l'ADN caractérisée par deux brins enroulés l'un autour de l'autre.
-	- Exemple : La représentation classique de l'ADN, souvent comparée à une échelle torsadée.
-
-- Nucléotides (adénine, thymine, cytosine, guanine) : Les blocs de construction de l'ADN, chacun composé d'une base azotée, d'un sucre et d'un groupe phosphate.
-	- Exemple : La séquence de nucléotides dans un fragment d'ADN qui pourrait être ATCGAA.
-
-- Complémentarité : Principe selon lequel les bases nucléotidiques de l'ADN s'apparient spécifiquement (A avec T et C avec G).
-	- Exemple : Dans la double hélice de l'ADN, si un brin a la séquence AGTC, le brin complémentaire aura la séquence TCAG.
-
-- Gène : Segment d'ADN qui contient les instructions pour la fabrication d'une protéine ou d'un ensemble de protéines.
-	- Exemple : Le gène de l'hémoglobine qui code pour la protéine transportant l'oxygène dans le sang.
-
-- Séquence : Ordre spécifique des nucléotides dans un brin d'ADN.
-	- Exemple : La séquence qui code pour une protéine peut être une suite spécifique de plusieurs centaines de nucléotides.
-
-Ces définitions et exemples peuvent être ajustés et enrichis en fonction du niveau de détail que vous souhaitez atteindre et des connaissances préalables de vos élèves. Il est également utile d'intégrer des schémas ou des modèles pour illustrer ces concepts, surtout dans les sciences de la vie et de la Terre où la visualisation peut grandement aider à la compréhension.
-</div>
-
-:::
-
-#### 3/ Proposer un plan général de cours
+#### 2/ Proposer un plan général de cours
 
 :::exemple collapsible Exemple sur les réseaux sociaux en SNT (secondes)
 
@@ -494,7 +382,7 @@ Débats éthiques sur les avancées technologiques liées au corps
 
 :::
 
-#### 4/ Dégager des étapes pour un cours sur un point précis
+#### 3/ Dégager des étapes pour un cours sur un point précis
 
 :::exemple collapsible Exemple en philosophie (terminales) pour expliquer le concept d'idéologie selon Marx
 
@@ -546,7 +434,7 @@ Comprendre le Concept d'Idéologie Selon Marx - Niveau Terminale
 :::
 
 
-#### 5/ Créer une fiche d'objectifs et de compétences
+#### 4/ Créer une fiche d'objectifs et de compétences
 
 :::exemple collapsible Un exemple en Mathématiques (secondes) sur les droites du plan
 
@@ -684,6 +572,147 @@ Autre image générée avec le même prompt, en choisissant un style réaliste.
     
 ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_8049db0403a45cccb08002411f13ab2f.png)
 
+</div>
+
+:::
+
+
+#### 3/ Créer une liste des concepts importants et de leurs définitions
+
+:::exemple collapsible Définir une liste de termes et expliquer la signification d'une liste de dates dans un cours en histoire (5ème)
+
+Dans le cadre d'un cours pour des élèves au collège en 5e sur l'empire byzantin et l'empire carolingien, fais une liste en définissant les termes suivants : empire, patriarche, missionnaire, missi dominici, monastère, capitulaire, écriture caroline ; puis explique la signification de ces dates : 800, 843, 1054, 1453 {.user}
+
+<div markdown class="IA">
+
+Bien sûr, voici une liste définissant les termes que vous avez mentionnés pour un cours sur l'Empire byzantin et l'Empire carolingien :
+
+- Empire : Un vaste territoire sous l'autorité d'un seul dirigeant, généralement un empereur.
+- Patriarche : Le chef de l'Église orthodoxe orientale, responsable d'une région spécifique. Le patriarche est comparable au titre de pape dans l'Église catholique, bien que les deux aient des différences doctrinales.
+- Missionnaire : Une personne envoyée pour propager une religion, une foi ou une idéologie particulière dans une région spécifique.
+- Missi Dominici : Des émissaires envoyés dans l'Empire carolingien pour superviser les affaires locales et s'assurer que les directives royales étaient suivies.
+- Monastère : Un établissement religieux où des moines ou des moniales vivent en communauté, consacrés à la prière, à l'étude et au travail.
+- Capitulaire : Un capitulaire est une disposition législative ou un décret émis par un souverain, en particulier dans le contexte de l'Empire carolingien. 
+- Écriture caroline : style d'écriture développé à l'époque de Charlemagne, caractérisé par des lettres claires et uniformes, jouant un rôle important dans la préservation des textes et des connaissances au sein de l'Empire carolingien.
+
+En ce qui concerne les dates spécifiques :
+
+- 800 : Couronnement de Charlemagne comme empereur par le pape Léon III à Rome, marquant le début du Saint Empire romain germanique.
+- 843 : Le traité de Verdun, qui a divisé l'Empire carolingien en trois parties entre les petits-fils de Charlemagne, marquant le début de la France, de l'Allemagne et de la Lotharingie.
+- 1054 : Le schisme entre l'Église catholique romaine et l'Église orthodoxe orientale, connu sous le nom de Grand Schisme, résultant en une division permanente entre les deux branches du christianisme.
+- 1453 : La chute de Constantinople aux mains des Ottomans, mettant fin à l'Empire byzantin et marquant la fin de l'Antiquité et le début de la Renaissance.
+
+</div>
+
+
+:::
+
+:::exemple collapsible Un exemple en EMC (secondes) sur le thème : fondements et fragilités du lien social
+
+Tu dois préparer un cours en éducation morale et civique sur les fondements et les fragilités du lien social à des élèves de secondes. Fais une liste de termes techniques sur ce sujet et donne leur définition. {.user}
+
+<div markdown class="IA">
+
+Bien sûr, voici une liste de termes techniques liés aux fondements et aux fragilités du lien social en éducation morale et civique, accompagnés de leurs définitions :
+
+##### Lien social :
+
+Définition : Le lien social se réfère aux relations interpersonnelles qui connectent les individus au sein d'une communauté ou d'une société. Il englobe les interactions, les normes, les valeurs et les institutions qui contribuent à la cohésion sociale.
+
+##### Cohésion sociale :
+
+Définition : La cohésion sociale représente le degré de solidarité, d'unité et de stabilité au sein d'une société. Elle mesure la capacité des individus à vivre ensemble harmonieusement malgré leurs différences.
+
+##### Capital social :
+
+Définition : Le capital social désigne les ressources provenant des relations sociales, telles que la confiance, la coopération et le soutien mutuel. Un niveau élevé de capital social favorise le bien-être collectif.
+
+##### Déviance sociale :
+
+Définition : La déviance sociale se réfère aux comportements, normes ou valeurs qui s'écartent des attentes ou des normes établies au sein d'une société, pouvant entraîner des conséquences négatives sur le lien social.
+
+##### Inclusion sociale :
+
+Définition : L'inclusion sociale vise à garantir la participation équitable de tous les individus à la vie sociale, économique et politique, en minimisant les barrières qui pourraient exclure certains groupes.
+
+##### Exclusion sociale :
+
+Définition : L'exclusion sociale se produit lorsque des individus ou des groupes sont volontairement ou involontairement marginalisés de la société, les privant ainsi d'accès aux ressources et opportunités essentielles.
+
+##### Multiculturalisme :
+
+Définition : Le multiculturalisme reconnaît et valorise la diversité culturelle au sein d'une société. Il encourage le respect des différences et la coexistence pacifique des différentes identités culturelles.
+    
+##### Intégration sociale :
+
+Définition : L'intégration sociale implique l'incorporation réussie des individus dans la société, en favorisant leur participation active et leur adhésion aux normes et valeurs communes.
+
+##### Anomie :
+
+Définition : L'anomie se réfère à un état de désintégration sociale où les normes et les valeurs perdent leur influence, entraînant une confusion et une perte de repères au sein de la société.
+    
+##### Solidarité :
+
+Définition : La solidarité représente le sentiment d'interdépendance et de responsabilité mutuelle entre les membres d'une société, contribuant à renforcer le tissu social.
+    
+##### Normes sociales :
+
+Définition : Les normes sociales sont des règles tacites ou explicites qui définissent le comportement attendu au sein d'une société, jouant un rôle clé dans la préservation du lien social.    
+    
+</div>
+
+
+:::
+
+:::exemple collapsible Un exemple en SVT (secondes) sur l'organisme pluricellulaire
+
+<div markdown class="user">
+Tu es un conseiller en pédagogie qui aide les enseignants à créer une liste de définitions des notions importantes sur un thème, avec un exemple à chaque fois
+Je suis un enseignant de sciences de la vie et de la Terre en lycée et je fais un cours sur l’organisme pluricellulaire pour des élèves de secondes.
+Voici les notions fondamentales décrites dans le bulletin officiel:
+cellule, matrice extracellulaire/paroi, tissu, organe ; organite, spécialisation cellulaire, ADN, double hélice, nucléotides (adénine, thymine, cytosine,guanine), complémentarité, gène, séquence.
+</div>
+
+<div markdown class="IA">
+Pour créer une liste de définitions des notions importantes sur le thème de l'organisme pluricellulaire, voici une ébauche de définitions accompagnées d'exemples pour chacune des notions que vous avez mentionnées :
+
+- Cellule : Unité de base structurale et fonctionnelle de tous les organismes vivants. Elle est considérée comme l'unité élémentaire de la vie.
+	- Exemple : Une cellule épithéliale qui tapisse l'intérieur de la bouche.
+
+- Matrice extracellulaire/Paroi : Ensemble complexe de molécules sécrétées par les cellules qui fournit un support structurel et biochimique aux cellules environnantes.
+	- Exemple : La matrice extracellulaire du cartilage, riche en collagène et en protéoglycanes.
+
+- Tissu : Groupe de cellules similaires et de leurs produits extracellulaires qui accomplissent une fonction spécifique.
+	- Exemple : Le tissu musculaire qui permet la contraction et le mouvement.
+
+- Organe : Structure composée de plusieurs types de tissus qui travaillent ensemble pour accomplir une fonction spécifique.
+	- Exemple : Le cœur, un organe composé de tissu musculaire, de tissu nerveux et de vaisseaux sanguins.
+
+- Organite : Compartiment spécialisé à l'intérieur d'une cellule qui remplit une fonction spécifique.
+	- Exemple : Les mitochondries, organites responsables de la production d'énergie.
+
+- Spécialisation cellulaire : Processus par lequel une cellule non différenciée devient transformée en une cellule avec une fonction spécifique.
+	- Exemple : Les globules rouges spécialisés dans le transport de l'oxygène.
+
+- ADN : Acide désoxyribonucléique, la molécule qui porte l'information génétique des organismes vivants.
+	- Exemple : L'ADN contenu dans le noyau d'une cellule de peau humaine.
+
+- Double hélice : Structure de l'ADN caractérisée par deux brins enroulés l'un autour de l'autre.
+	- Exemple : La représentation classique de l'ADN, souvent comparée à une échelle torsadée.
+
+- Nucléotides (adénine, thymine, cytosine, guanine) : Les blocs de construction de l'ADN, chacun composé d'une base azotée, d'un sucre et d'un groupe phosphate.
+	- Exemple : La séquence de nucléotides dans un fragment d'ADN qui pourrait être ATCGAA.
+
+- Complémentarité : Principe selon lequel les bases nucléotidiques de l'ADN s'apparient spécifiquement (A avec T et C avec G).
+	- Exemple : Dans la double hélice de l'ADN, si un brin a la séquence AGTC, le brin complémentaire aura la séquence TCAG.
+
+- Gène : Segment d'ADN qui contient les instructions pour la fabrication d'une protéine ou d'un ensemble de protéines.
+	- Exemple : Le gène de l'hémoglobine qui code pour la protéine transportant l'oxygène dans le sang.
+
+- Séquence : Ordre spécifique des nucléotides dans un brin d'ADN.
+	- Exemple : La séquence qui code pour une protéine peut être une suite spécifique de plusieurs centaines de nucléotides.
+
+Ces définitions et exemples peuvent être ajustés et enrichis en fonction du niveau de détail que vous souhaitez atteindre et des connaissances préalables de vos élèves. Il est également utile d'intégrer des schémas ou des modèles pour illustrer ces concepts, surtout dans les sciences de la vie et de la Terre où la visualisation peut grandement aider à la compréhension.
 </div>
 
 :::
