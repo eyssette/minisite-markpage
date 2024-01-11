@@ -1484,9 +1484,28 @@ Le neurologue Antonio Damasio distingue trois formes de Soi :
 :::exemple collapsible Exemple
 
 <div markdown class="user">
+
+Recopie le texte suivant en mettant en gras les termes importants et en sautant une ligne entre chaque phrase :
+
+De nombreux progrès techniques se produisent tout au long du XIXe siècle. Ils sont l’œuvre de techniciens, puis, progressivement, d’ingénieurs et de savants. La machine à vapeur est mise au point par James Watt en 1763. Elle fonctionne d’abord au bois, puis au charbon et enfin au coke (dérivé du charbon). Elle est utilisée dans un grand nombre de domaines industriels et devient la source d’énergie d’usines de plus en plus grosses, notamment dans le textile (machines à filer et à tisser) et dans la métallurgie. Peu à peu perfectionnée, la machine à vapeur fait fonctionner les locomotives, les bateaux et les machines agricoles. 
+
 </div>
 
 <div markdown class="IA">
+
+De nombreux **progrès techniques** se produisent tout au long du **XIXe siècle**.
+
+Ils sont l’œuvre de **techniciens**, puis, progressivement, d’**ingénieurs** et de **savants**.
+
+La **machine à vapeur** est mise au point par **James Watt** en **1763**.
+
+Elle fonctionne d’abord au **bois**, puis au **charbon** et enfin au **coke** (dérivé du charbon).
+
+Elle est utilisée dans un grand nombre de **domaines industriels** et devient la source d’énergie d’**usines de plus en plus grosses**, notamment dans le **textile** (machines à filer et à tisser) et dans la **métallurgie**.
+
+Peu à peu **perfectionnée**, la **machine à vapeur** fait fonctionner les **locomotives**, les **bateaux** et les **machines agricoles**.
+
+
 </div>
 
 :::
