@@ -728,7 +728,9 @@ Ces définitions et exemples peuvent être ajustés et enrichis en fonction du n
 
 ### 🎯 Évaluations
 
-#### 1/ Créer une liste de questions de révision du cours
+#### 1/ Créer une liste de questions
+
+##### a) Questions pour la révision d'un cours
 
 En fin de cours sur un chapitre, c'est une pratique courante dans plusieurs matières de proposer une liste de questions de révision du cours, qui peut servir à l'autoévaluation des élèves, ou bien qui peut être le support d'une interrogation en classe. L'IA peut aider à créer une telle liste de questions.
 
@@ -754,7 +756,7 @@ Pour un cours de SES sur les défaillances du marché, fais une liste d'environ 
 
 :::
 
-#### 2/ Créer une liste de questions sur un texte
+##### b) Questions sur un texte
 
 On peut aussi donner à l'IA un texte et lui demander de trouver des questions intéressantes à poser sur ce texte
 
@@ -908,7 +910,7 @@ N'hésitez pas à personnaliser ou à découper ce QCM en plusieurs parties en f
 
 :::
 
-#### 3/ Créer une liste de questions sur une image ou une vidéo
+##### c) Questions sur une image ou une vidéo
 
 Les IA ne sont pas nécessairement limitées à des textes, on peut trouver des IA qui vont proposer des activités à partir d'une image ou d'une vidéo
 
@@ -1032,8 +1034,41 @@ Feedback : Bien joué, c'est faux. La roche en fusion est appelée magma lorsqu'
 :::
 
 
-    
-#### 4/ Créer un corrigé
+#### 2/ Créer un quiz avec plusieurs types de question à intégrer dans un logiciel
+
+Le principe est d'abord d'apprendre à l'IA la syntaxe du logiciel pour ensuite lui faire produire un quiz qui respecte cette syntaxe.
+
+:::exemple collapsible Créer des quiz avec la syntaxe de Text2quiz
+
+<div markdown class="user>
+
+Je t'explique la syntaxe de text2quiz pour rédiger un quiz, qui est la suivante :
+- pour un vrai/faux : écrire "VF || Proposition || V"  avec à la fin V si c'est vrai / F si c'est faux
+- pour une flashcard : écrire "Flashcard || Question || Réponse"
+- pour une remise dans l'ordre de plusieurs items : écrire "Ordre || Item 1 | Item 2 | Item 3 || Consigne" ; pour 4 items ce serait : "Ordre || Item 1 | Item 2 | Item 3  | Item 4 || Consigne" Attention, la consigne ou la question qui explique ce qu'il faut faire doit être mise à la fin ici
+- pour un QCM : écrire "QCM || Question || Réponse 1 | Réponse 2 | Réponse 3 | Réponse 4" et ajouter  "V:" juste devant chaque réponse vraie 
+- pour l'association entre un item et son étiquette : écrire "Association || {{Item 1 | Étiquette 1}}{{Item 2 | Étiquette 2}}" et ajouter {{Item 3 | Étiquette 3}} et ainsi de suite s'il y a plusieurs items
+
+As-tu compris la syntaxe ? Réponds simple par oui ou par non. Tu devras ensuite produire des quiz en respectant la syntaxe de text2quiz que tu viens d'apprendre et que tu devras retenir pour tous les prochains quiz que je te demanderai de faire.
+</div>
+
+Oui {.IA}
+
+Propose un quiz de 8 questions avec tous les types de question sur les états de la matière en physique pour des élèves de 5e au collège {.user}
+
+<div markdown class="IA">
+VF || L'eau bout à une température de 100 degrés Celsius || V
+Flashcard || Quel est le terme pour le passage de l'état gazeux à l'état liquide ? || Condensation
+QCM || Quel est l'état de la matière qui a une forme définie ? || V: Solide | Liquide | Gaz
+Association || {{Eau solide | Glace}}{{Eau liquide | Eau du robinet}}{{Eau gazeuse | Vapeur}} || Associez chaque état de l'eau à sa description.
+Flashcard || Qu'est-ce qui caractérise un gaz en termes de forme et de volume ? || Un gaz n'a ni forme ni volume définis, il remplit complètement le conteneur qui le contient
+Ordre || Solide | Liquide | Gaz || Mettez ces états de la matière dans l'ordre croissant de l'agitation moléculaire.
+VF || Les molécules dans un état solide sont plus éloignées les unes des autres par rapport à l'état liquide || F
+VF || Dans l'état gazeux, les molécules sont étroitement liées || F
+
+:::
+
+#### 3/ Créer un corrigé
 
 L'IA peut même proposer une correction d'une évaluation. Pour des questions simples, cela permettrait d'obtenir des formulations déjà rédigées, que l'on peut simplement améliorer (pour gagner du temps).
 
@@ -1549,10 +1584,12 @@ Peu à peu **perfectionnée**, la **machine à vapeur** fait fonctionner les **l
 
 #### Transformer un QCM dans un format spécifique à un logiciel de quiz
 
+Si on a déjà un quiz, mais qu'on veut pouvoir l'intégrer dans un logiciel, il faut d'abord apprendre à l'IA la syntaxe du logiciel pour chaque type de question.
+
 :::exemple collapsible Utilisation de Text2quiz pour créer des flashcards
 
 <div markdown class="user">
-Pour faire une flashcard avec le logiciel Text2quiz, il faut utiliser cette syntaxe. Pour chaque carte, on écrit : "Flashcard || Texte de la question || texte de la réponse".  Je te donnerai ensuite des flashcards à créer. Tu devrais respecter cette syntaxe. Tu as compris ? Dis-moi simplement oui ou non. Rien de plus.
+Pour faire une flashcard avec le logiciel Text2quiz, il faut utiliser cette syntaxe. Pour chaque carte, on écrit : "Flashcard || Texte de la question || texte de la réponse".  Je te donnerai ensuite des flashcards à créer. Tu devras respecter cette syntaxe. Tu as compris ? Dis-moi simplement oui ou non. Rien de plus.
 </div>
 
 <aside>Il faut d'abord faire apprendre à l'IA le format spécifique au logiciel</aside>
