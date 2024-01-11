@@ -1496,13 +1496,13 @@ Le neurologue Antonio Damasio distingue trois formes de Soi :
 
 #### Transformer un QCM dans un format spécifique à un logiciel de quiz
 
-:::exemple collapsible Utilisation de text2quiz pour créer des flashcards
-
-<aside>Il faut d'abord faire apprendre à l'IA le format spécifique au logiciel</aside>
+:::exemple collapsible Utilisation de Text2quiz pour créer des flashcards
 
 <div markdown class="user">
-Pour faire une flashcard avec le logiciel text2quiz, il faut utiliser cette syntaxe. Pour chaque carte, on écrit : "Flashcard || Texte de la question || texte de la réponse".  Je te donnerai ensuite des flashcards à créer. Tu devrais respecter cette syntaxe. Tu as compris ? Dis-moi simplement oui ou non. Rien de plus.
+Pour faire une flashcard avec le logiciel Text2quiz, il faut utiliser cette syntaxe. Pour chaque carte, on écrit : "Flashcard || Texte de la question || texte de la réponse".  Je te donnerai ensuite des flashcards à créer. Tu devrais respecter cette syntaxe. Tu as compris ? Dis-moi simplement oui ou non. Rien de plus.
 </div>
+
+<aside>Il faut d'abord faire apprendre à l'IA le format spécifique au logiciel</aside>
 
 <div markdown class="IA">
 Oui
