@@ -1510,7 +1510,7 @@ Le neurologue Antonio Damasio distingue trois formes de Soi :
 
 #### 4/ Adapter un document pour un élève à besoin éducatif particulier
 
-:::exemple collapsible Exemple
+:::exemple collapsible Mise en gras des termes importants et texte plus aéré
 
 <div markdown class="user">
 
@@ -1625,6 +1625,9 @@ L'IA peut fonctionner ainsi comme une forme d'assistant rédactionnel et d'outil
 :::exemple collapsible Exemple
 
 <div markdown class="user">
+
+
+
 </div>
 
 <div markdown class="IA">
