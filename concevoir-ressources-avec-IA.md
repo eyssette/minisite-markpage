@@ -1908,7 +1908,7 @@ Une enseignante moderne au tableau en train de faire son cours à des collégien
 
 ### 🎯 Évaluations
 
-#### 1/ Faire analyser son évaluation
+#### Faire analyser son évaluation
 
 :::exemple collapsible Améliorer une évaluation en SNT (secondes) sur le web
 
@@ -2054,21 +2054,6 @@ e. Une URL complète se compose du protocole, du nom de domaine et du chemin d'a
 
 Vous pouvez utiliser cette évaluation révisée pour tester les connaissances de vos élèves après avoir enseigné le cours sur le Web. Les réponses fournies peuvent également servir de guide de correction.                    
                         
-</div>
-
-:::           
-    
-    
-    
-#### 2/ Faire analyser son corrigé
-
-
-:::exemple collapsible Exemple
-
-<div markdown class="user">
-</div>
-
-<div markdown class="IA">
 </div>
 
 :::
