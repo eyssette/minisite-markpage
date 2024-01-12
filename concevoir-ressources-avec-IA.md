@@ -1830,20 +1830,7 @@ En intégrant des activités pratiques, des démonstrations, des discussions de 
 
 ### ✏️ Activités & documents
 
-#### 1/ Ajouter des images à un document
-
-
-:::exemple collapsible Exemple
-
-<div markdown class="user">
-</div>
-
-<div markdown class="IA">
-</div>
-
-:::
-
-#### 2/ Reformuler un passage
+#### 1/ Reformuler un passage
 
 :::exemple collapsible Guider l'IA pour lui faire trouver une meilleure formulation
 
@@ -1876,6 +1863,46 @@ D'autres formulations avec "ce que je suis" {.user}
 
 :::
 
+#### 2/ Ajouter des images ou des icônes à un document
+
+:::exemple collapsible Trouver des emoji pour représenter différents modes d'apprentissage (méthode ABC Learning)
+
+<div markdown class="user">
+Donne-moi une idée d'emoji ou d'icône pour chaque mode d'apprentissage de la méthode ABC Learning Design
+</div>
+
+<div markdown class="IA">
+ien sûr, voici des idées d'emoji ou d'icônes pour représenter chaque mode d'apprentissage dans le cadre de l'ABC Learning Design :
+
+Acquisition (A) : 📚
+
+Un emoji de livre pour symboliser l'acquisition de connaissances par la lecture et l'enseignement.
+Collaboration (B) : 👥
+
+Un emoji de deux têtes symbolisant la collaboration et l'interaction entre les étudiants.
+Communication (C) : 🗣️
+
+Un emoji d'une bouche parlante pour représenter la communication orale et les présentations.
+Exploration (E) : 🔍
+
+Un emoji d'une loupe pour symboliser l'exploration et la recherche autonome.
+Pratique (P) : 🧪
+
+Un emoji d'une éprouvette pour représenter la pratique et l'expérimentation.
+Production (Pr) : 🎨
+
+Un emoji d'un pinceau ou d'une palette de couleurs pour symboliser la création et la production d'œuvres.
+</div>
+
+:::
+
+:::exemple collapsible Représenter le mode d'apprentissage "Acquisition" avec une image d'une personne en train de faire son cours au tableau
+
+Une enseignante moderne au tableau en train de faire son cours à des collégiens de 12 ans. Style réaliste {.user}
+
+![](https://th.bing.com/th/id/OIG.Hl4jjKDiFbJxV0vg3dIs?w=270&h=270&c=6&r=0&o=5&pid=ImgGn) {.IA}
+
+:::
 
 
 
