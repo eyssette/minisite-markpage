@@ -723,6 +723,50 @@ Ces définitions et exemples peuvent être ajustés et enrichis en fonction du n
 
 :::
 
+:::exemple collapsible Faire une fiche de vocabulaire en Anglais sur un thème
+
+Fais-moi une fiche de vocabulaire en anglais sur le thème des droits humains. Choisis 30 termes spécifiques à cette thématique. Inclus le plus possible d'expressions idiomatiques. Donne juste le terme et sa traduction en français, sans autre explication. Présente sous forme de tableau en 2 colonnes. {.user}
+
+<div markdown class="IA>
+
+| Terme en anglais          | Traduction en français           |
+|---------------------------|---------------------------------|
+| Human Rights              | Droits de l'Homme                |
+| Equality                  | Égalité                         |
+| Freedom of Speech         | Liberté d'Expression            |
+| Justice                   | Justice                         |
+| Civil Liberties           | Libertés Civiles                |
+| Discrimination            | Discrimination                   |
+| Inalienable Rights        | Droits Inaliénables              |
+| Rule of Law               | État de Droit                   |
+| Social Justice            | Justice Sociale                 |
+| Dignity                   | Dignité                         |
+| Tolerance                 | Tolérance                       |
+| Empowerment               | Autonomisation                  |
+| Moral Universalism        | Universalisme Moral              |
+| Suffrage                  | Suffrage                        |
+| Accountability            | Responsabilité                  |
+| Censorship                | Censure                         |
+| Minority Rights           | Droits des Minorités             |
+| Gender Equality           | Égalité des Sexes               |
+| Due Process               | Procédure Légale Équitable       |
+| Fair Trial                | Procès Équitable                |
+| Humanitarian Aid          | Aide Humanitaire                |
+| Refugee Rights            | Droits des Réfugiés              |
+| Non-discrimination       | Non-discrimination               |
+| Privacy                   | Vie Privée                      |
+| Child Labor               | Travail des Enfants             |
+| Freedom of Assembly       | Liberté de Réunion              |
+| Right to Education        | Droit à l'Éducation             |
+| Indigenous Rights         | Droits des Autochtones          |
+| Labor Rights              | Droits du Travail               |
+| Political Freedom         | Liberté Politique               |
+
+</div>
+
+:::
+
+
 #### 4/ Créer un tableau de distinctions
 
 :::exemple collapsible Distinctions entre l'empire carolingien et l'empire byzantin en Histoire (5ème)
