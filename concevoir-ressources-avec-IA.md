@@ -524,7 +524,7 @@ Ecris un texte d'environ 50 mots sur le thème du judo avec un registre soutenu,
 <div markdown class="IA">
 
 ##### Registre soutenu :
-Au cours des séances de judo, une effervescence empreinte d'enthousiasme nous animait. Revêtus de nos kimonos hebdomadaires, nous nous exerçions sur le tatami sous les directives bienveillantes du professeur. Les subtilités des techniques, entre chutes et prises, se dévoilaient, façonnant ainsi des moments d'apprentissage et d'épanouissement au sein de cette discipline raffinée.
+Au cours des séances de judo, une effervescence empreinte d'enthousiasme nous animait. Revêtus de nos kimonos hebdomadaires, nous nous exercions sur le tatami sous les directives bienveillantes du professeur. Les subtilités des techniques, entre chutes et prises, se dévoilaient, façonnant ainsi des moments d'apprentissage et d'épanouissement au sein de cette discipline raffinée.
 
 ##### Registre familier :
 Pendant nos cours de judo, on était à fond ! Tous les mardis, on se mettait nos kimonos et on se laissait guider par le prof sur le tatami. Il nous montrait des trucs chelous, genre des chutes bizarres, et on essayait de pas se ramasser comme des quiches. C'était trop marrant !
@@ -1099,7 +1099,7 @@ Je t'explique la syntaxe de text2quiz pour rédiger un quiz, qui est la suivante
 - pour un QCM : écrire "QCM || Question || Réponse 1 | Réponse 2 | Réponse 3 | Réponse 4" et ajouter  "V:" juste devant chaque réponse vraie 
 - pour l'association entre un item et son étiquette : écrire "Association || {{Item 1 | Étiquette 1}}{{Item 2 | Étiquette 2}}" et ajouter {{Item 3 | Étiquette 3}} et ainsi de suite s'il y a plusieurs items
 
-As-tu compris la syntaxe ? Réponds simple par oui ou par non. Tu devras ensuite produire des quiz en respectant la syntaxe de text2quiz que tu viens d'apprendre et que tu devras retenir pour tous les prochains quiz que je te demanderai de faire.
+As-tu compris la syntaxe ? Réponds simplement par oui ou par non. Tu devras ensuite produire des quiz en respectant la syntaxe de text2quiz que tu viens d'apprendre et que tu devras retenir pour tous les prochains quiz que je te demanderai de faire.
 </div>
 
 Oui {.IA}
