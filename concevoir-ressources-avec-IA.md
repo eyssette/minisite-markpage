@@ -725,7 +725,7 @@ Ces définitions et exemples peuvent être ajustés et enrichis en fonction du n
 
 #### 4/ Créer un tableau de distinctions
 
-:::exemple Distinctions entre l'empire carolingien et l'empire byzantin en Histoire (5ème)
+:::exemple collapsible Distinctions entre l'empire carolingien et l'empire byzantin en Histoire (5ème)
 
 Propose un tableau de distinctions entre l'empire carolingien et l'empire byzantin au niveau collège.
 
@@ -752,7 +752,7 @@ Propose un tableau de distinctions entre l'empire carolingien et l'empire byzant
 
 :::
 
-:::exemple Distinction de familles de matériau en Technologie (collège)
+:::exemple collapsible Distinction de familles de matériau en Technologie (collège)
 
 Fais un tableau de distinctions pour expliquer les différentes familles de matériaux en technologie au niveau collège {.user}
 
