@@ -1115,6 +1115,9 @@ Flashcard || Qu'est-ce qui caractérise un gaz en termes de forme et de volume ?
 Ordre || Solide | Liquide | Gaz || Mettez ces états de la matière dans l'ordre croissant de l'agitation moléculaire.
 VF || Les molécules dans un état solide sont plus éloignées les unes des autres par rapport à l'état liquide || F
 VF || Dans l'état gazeux, les molécules sont étroitement liées || F
+</div>
+
+<aside>On peut alors copier-coller le quiz dans text2quiz : <a href="https://text2quiz.vercel.app/?v=1.0#VF%20%7C%7C%20L'eau%20bout%20%C3%A0%20une%20temp%C3%A9rature%20de%20100%20degr%C3%A9s%20Celsius%20%7C%7C%20V%0AFlashcard%20%7C%7C%20Quel%20est%20le%20terme%20pour%20le%20passage%20de%20l'%C3%A9tat%20gazeux%20%C3%A0%20l'%C3%A9tat%20liquide%20?%20%7C%7C%20Condensation%0AQCM%20%7C%7C%20Quel%20est%20l'%C3%A9tat%20de%20la%20mati%C3%A8re%20qui%20a%20une%20forme%20d%C3%A9finie%20?%20%7C%7C%20V:%20Solide%20%7C%20Liquide%20%7C%20Gaz%0AAssociation%20%7C%7C%20%7B%7BEau%20solide%20%7C%20Glace%7D%7D%7B%7BEau%20liquide%20%7C%20Eau%20du%20robinet%7D%7D%7B%7BEau%20gazeuse%20%7C%20Vapeur%7D%7D%20%7C%7C%20Associez%20chaque%20%C3%A9tat%20de%20l'eau%20%C3%A0%20sa%20description.%0AFlashcard%20%7C%7C%20Qu'est-ce%20qui%20caract%C3%A9rise%20un%20gaz%20en%20termes%20de%20forme%20et%20de%20volume%20?%20%7C%7C%20Un%20gaz%20n'a%20ni%20forme%20ni%20volume%20d%C3%A9finis,%20il%20remplit%20compl%C3%A8tement%20le%20conteneur%20qui%20le%20contient%0AOrdre%20%7C%7C%20Solide%20%7C%20Liquide%20%7C%20Gaz%20%7C%7C%20Mettez%20ces%20%C3%A9tats%20de%20la%20mati%C3%A8re%20dans%20l'ordre%20croissant%20de%20l'agitation%20mol%C3%A9culaire.%0AVF%20%7C%7C%20Les%20mol%C3%A9cules%20dans%20un%20%C3%A9tat%20solide%20sont%20plus%20%C3%A9loign%C3%A9es%20les%20unes%20des%20autres%20par%20rapport%20%C3%A0%20l'%C3%A9tat%20liquide%20%7C%7C%20F%0AVF%20%7C%7C%20Dans%20l'%C3%A9tat%20gazeux,%20les%20mol%C3%A9cules%20sont%20%C3%A9troitement%20li%C3%A9es%20%7C%7C%20F">lien vers le quiz</a></aside>
 
 :::
 
