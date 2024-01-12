@@ -723,7 +723,57 @@ Ces définitions et exemples peuvent être ajustés et enrichis en fonction du n
 
 :::
 
+#### 4/ Créer un tableau de distinctions
 
+:::exemple Distinctions entre l'empire carolingien et l'empire byzantin en Histoire (5ème)
+
+Propose un tableau de distinctions entre l'empire carolingien et l'empire byzantin au niveau collège.
+
+<aside>Avec ce genre de prompt, il faut se méfier des hallucinations possibles de l'IA, mais la structuration proposée peut fournir une base intéressante</aside>
+
+<div markdown class="IA">
+
+| Caractéristiques                | Empire Carolingien         | Empire Byzantin            |
+| ------------------------------- | -------------------------- | -------------------------- |
+| **Période**                     | 800-888 (après l'effondrement de l'Empire romain d'Occident) | 330-1453 (suite à la fondation de Constantinople en 330 jusqu'à la chute de Constantinople en 1453) |
+| **Localisation**                | Europe occidentale         | Bassin méditerranéen, Anatolie |
+| **Capitale**                    | Aix-la-Chapelle (principalement sous Charlemagne) | Constantinople (moderne Istanbul) |
+| **Langue**                      | Latin et dialectes germaniques | Grec, plus tard le latin (administratif) |
+| **Religion**                    | Christianisme, notamment catholique romain | Christianisme orthodoxe |
+| **Leaders clés**                | Charlemagne, Louis le Pieux | Empereurs comme Justinien, Basile II |
+| **Système politique**           | Monarchie féodale décentralisée | Monarchie impériale centralisée |
+| **Relations avec l'Église**     | Étroite alliance avec l'Église catholique | Schisme de 1054 avec l'Église orthodoxe, relations étroites avec l'Église orthodoxe par la suite |
+| **Héritage culturel**           | Renaissance carolingienne, préservation des traditions romaines | Héritage grec et romain, codification du droit romain (Corpus Juris Civilis) |
+| **Art et architecture**         | Art préroman, influences romaines | Art byzantin, mosaïques, architecture à coupole (exemple : Hagia Sophia) |
+| **Relations extérieures**       | Relations avec d'autres royaumes européens, confrontations avec les Vikings et les Sarrasins | Relations avec les États voisins, notamment les Perses et les Arabes, conflits avec les croisés latins |
+| **Chute**                       | Fragmentation après la mort de Louis le Pieux en 840 | Prise de Constantinople par les Ottomans en 1453 |
+
+</div>
+
+:::
+
+:::exemple Distinction de familles de matériau en Technologie (collège)
+
+Fais un tableau de distinctions pour expliquer les différentes familles de matériaux en technologie au niveau collège {.user}
+
+<aside>Avec ce genre de prompt, il faut se méfier des hallucinations possibles de l'IA, mais la structuration proposée peut fournir une base intéressante</aside>
+
+<div markdown class="IA">
+
+| Famille de Matériaux        | Propriétés Générales                         | Exemples                           | Applications Courantes            |
+| --------------------------- | ------------------------------------------- | ---------------------------------- | ---------------------------------- |
+| **Métaux**                  | Conducteurs de chaleur et d'électricité, malléables, ductiles | Fer, aluminium, cuivre            | Constructions, câblage électrique, ustensiles de cuisine |
+| **Polymères**               | Légers, isolants électriques, flexibles      | Plastiques (polyéthylène, PVC), caoutchouc | Emballages, jouets, revêtements     |
+| **Céramiques**              | Durs, résistants à la chaleur, isolants     | Porcelaine, céramique technique    | Vaisselle, carreaux, composants électroniques |
+| **Composites**              | Combinaison de plusieurs matériaux         | Fibre de verre, fibre de carbone   | Aérospatiale, sports, construction  |
+| **Verre**                   | Transparent, rigide, fragile                | Verre ordinaire, verre borosilicaté | Fenêtres, bouteilles, instruments optiques |
+| **Matériaux naturels**      | Extraits directement de la nature          | Bois, pierre, coton                | Construction, textiles, artisanat   |
+| **Matériaux synthétiques**  | Fabriqués par l'homme à partir de composés chimiques | Nylon, polyester, polystyrène    | Vêtements, emballages, isolants    |
+
+
+</div>
+
+:::
 
 
 ### 🎯 Évaluations
@@ -1662,23 +1712,9 @@ L'IA peut fonctionner ainsi comme une forme d'assistant rédactionnel et d'outil
 
 ### 📅 Planification d'un cours
 
-#### 1/ Trouver des titres ou des descriptifs pour son cours
+On peut utiliser l'IA pour lui faire analyser ce qu'on a préparé afin de voir si notre cours est complet ou bien si des formulations peuvent être améliorées.
 
-:::exemple collapsible Exemple
-
-<div markdown class="user">
-
-
-
-</div>
-
-<div markdown class="IA">
-</div>
-
-:::
-
-
-#### 2/ Faire analyser son plan de cours
+#### Faire analyser son plan de cours
 :::exemple collapsible Améliorations d'un cours sur le Web en SNT (secondes)
 
 <div markdown class="user">
@@ -1809,15 +1845,34 @@ En intégrant des activités pratiques, des démonstrations, des discussions de 
 
 #### 2/ Reformuler un passage
 
-:::exemple collapsible Exemple
+:::exemple collapsible Guider l'IA pour lui faire trouver une formulation plus simple
 
 <div markdown class="user">
+Formule en moins de mots cette phrase : "Le corps ne joue-t-il pas un rôle beaucoup plus fondamental dans la définition de ce que je suis ?" Fais plusieurs propositions.
 </div>
 
 <div markdown class="IA">
+"Le corps ne définit-il pas essentiellement qui je suis ?"
+"Le corps n'est-il pas au cœur de ma définition ?"
+"En quoi le corps ne façonne-t-il pas essentiellement qui je suis ?"
+"Est-ce que l'essence de soi ne dépend pas largement du corps ?"
+"N'est-ce pas le corps qui définit profondément mon identité ?"
+"Le rôle du corps n'est-il pas fondamental dans ma définition personnelle ?"
+</div>
+
+D'autres formulations avec "ce que je suis" {.user}
+
+<div markdown class="IA">
+"Ce que je suis ne dépend-il pas essentiellement du corps ?"
+"En quoi le corps est-il fondamental pour ce que je suis ?"
+"Ne joue-t-il pas un rôle crucial dans la définition de ce que je suis ?"
+"Le corps n'est-il pas au cœur de ce que je suis ?"
+"Est-ce que ce que je suis n'est pas étroitement lié à mon corps ?"
 </div>
 
 :::
+
+
 
 
 ### 🎯 Évaluations
