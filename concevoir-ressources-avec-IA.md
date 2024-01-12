@@ -10,11 +10,11 @@ Nous nous concentrons ici sur les utilisations pertinentes de l'IA pour la **con
 
 > Nous avons identifié **trois gestes professionnels** essentiels : 
 > 
-> ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_84c25341bd50db759fbdff698fb7e8fe.png)
+> ![](img/trois-gestes-professionnels.png)
 > 
 > Pour chacun de ces gestes professionnels, on peut envisager **trois types d'utilisation** de l'IA :
 > 
-> ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_b37fef18b1cc723c70938aad6bdbde49.png)
+> ![](img/trois-usages-IA.png)
 
 
 Nous vous proposons de partir de cette distinction des usages de l'IA et de vous donner des exemples de la manière dont on peut utiliser à profit l'IA d'un point de vue professionnel.
