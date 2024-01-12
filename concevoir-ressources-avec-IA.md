@@ -1,5 +1,5 @@
 ---
-style: .admonitionTitle{font-weight:bold!important;} .user:before{content:"👤   Prompt"; display:block; margin-bottom:5px; font-weight:bold} .IA:before{content:"🤖   Réponse de l'IA"; display:block; margin-bottom:5px; font-weight:bold;} .user, .IA {margin-bottom:1em ; padding:1em; padding-left:2em; border:1px solid \#AAA; border-radius:20px} .user {background-color:\#EEE} .IA{background-color:white} @media screen and (min-width:601px){footer{font size:1.3em}} .displayHomepage img {max-width:500px; display:block; margin:auto; margin-bottom:3em} .admonitionContent aside {text-align:right; color:\#4f0101; margin-bottom:1em} aside img {display:block; margin:1em auto; max-width:none!important} aside, pre {width:auto; overflow:auto}
+style: .admonitionTitle{font-weight:bold!important;} .user:before{content:"👤   Prompt"; display:block; margin-bottom:5px; font-weight:bold} .IA:before{content:"🤖   Réponse de l'IA"; display:block; margin-bottom:5px; font-weight:bold;} .user, .IA {margin-bottom:1em ; padding:1em; padding-left:2em; border:1px solid \#AAA; border-radius:20px} .user {background-color:\#EEE} .IA{background-color:white} @media screen and (min-width:601px){footer{font size:1.3em}} .displayHomepage img {max-width:500px; display:block; margin:auto; margin-bottom:3em} .admonitionContent aside {text-align:right; color:\#4f0101; margin-bottom:1em} aside img {display:block; margin:1em auto; max-width:none!important} aside, pre {width:auto; overflow:auto} h4{font-size:1.25em; margin:1.5em auto;} h5{font-size:1em;}
 searchbar: false
 linkToHomePage: true
 ---
@@ -888,7 +888,6 @@ Certainly, here are five questions formulated around the source of our moral dut
 
 :::exemple collapsible Questionnaire de lecture en Français sur <i>Les Misérables</i>
 
-<div markdown class="user">
 Je suis un enseignant de français en collège et je souhaite poser des questions sur le livre "Les misérables" sous forme de QCM. Fais le qcm le plus long possible {.user}
 
 <div markdown class="IA">
