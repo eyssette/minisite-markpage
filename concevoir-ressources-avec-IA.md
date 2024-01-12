@@ -23,7 +23,7 @@ Nous vous proposons de partir de cette distinction des usages de l'IA et de vous
 ## 🛠️  Créer
 
 
-    
+
 ### Principe général
 
 Les IA génératives (IAG) sont particulièrement adaptées pour produire une première version d'un document ou bien pour donner des idées lors de la création d'un cours.
@@ -81,7 +81,7 @@ Les chansons d'amour et leurs messages
 Le langage corporel
 Les mots doux et les compliments
 Les cadeaux et gestes d'affection
-    
+
 ##### Les figures littéraires liées à l'amour :
 
 Les personnifications de l'amour
@@ -96,7 +96,7 @@ L'influence des médias sociaux sur l'expression de l'amour
 
 Expressions idiomatiques liées à l'amour
 L'importance des mots dans la déclaration d'amour
-    
+
 ##### Les grandes déclarations d'amour dans la littérature et l'histoire :
 
 Roméo et Juliette de Shakespeare
@@ -115,8 +115,8 @@ Les contes de fées et l'amour véritable
 ##### L'évolution de la notion d'amour au fil du temps :
 
 Les différences entre l'amour romantique aujourd'hui et dans le passé
-Les influences culturelles et sociales sur la perception de l'amour    
-    
+Les influences culturelles et sociales sur la perception de l'amour
+
 </div>
 
 :::
@@ -154,7 +154,7 @@ Quelles sont les problématiques littéraires intéressantes à aborder dans le 
 
 :::
 
-<!-- 
+<!--
 Quelles sont les principales idées à connaître sur le thème de ?
 Quelles sont les principales théories de … en … ?
 Quelles sont les différentes explications possibles de … ?
@@ -183,7 +183,7 @@ Voici les contenus que je souhaite traiter:
 - Modèle économique des réseaux sociaux;
 - Rayon, diamètre et centre d’un graphe :
 - Notion de « petit monde » Expérience de Milgram;
-- Cyberviolence.    
+- Cyberviolence.
 
 </div>
 
@@ -306,7 +306,7 @@ Présentation des projets de groupe et évaluation par les pairs et l'enseignant
 Organisation :
 
 Mise à disposition de matériel informatique pour la recherche et la création de présentations.
-Chaque séance devrait être adaptée en fonction des réactions et de l'engagement des élèves, avec une flexibilité pour approfondir les sujets qui suscitent le plus d'intérêt ou de débat.    
+Chaque séance devrait être adaptée en fonction des réactions et de l'engagement des élèves, avec une flexibilité pour approfondir les sujets qui suscitent le plus d'intérêt ou de débat.
 
 </div>
 
@@ -343,7 +343,7 @@ La question de l'individuation
 
 Bioéthique et dilemmes éthiques liés au corps
 Manipulation génétique et reproduction assistée
-    
+
 ##### Corps et politique
 
 Les implications politiques du contrôle du corps
@@ -353,7 +353,7 @@ Droits du corps et libertés individuelles
 
 Influences culturelles et sociétales sur la perception du corps
 Stigmatisation et discrimination liées au corps
-    
+
 ##### Technologie et corps
 
 Impacts des prothèses et des technologies sur le corps
@@ -378,7 +378,7 @@ Analyse de textes littéraires explorant la philosophie du corps
 
 Relations entre le corps et l'environnement naturel
 Éthique environnementale et responsabilité corporelle
-    
+
 ##### Le futur du corps
 
 Transhumanisme et augmentation humaine
@@ -522,7 +522,7 @@ On peut spécifier des contraintes à respecter, au niveau du contenu ou bien au
 Ecris un texte d'environ 50 mots sur le thème du judo avec un registre soutenu, puis le même texte avec un registre familier, pour des élèves en CM1-CM2. {.user}
 
 <div markdown class="IA">
-    
+
 ##### Registre soutenu :
 Au cours des séances de judo, une effervescence empreinte d'enthousiasme nous animait. Revêtus de nos kimonos hebdomadaires, nous nous exerçions sur le tatami sous les directives bienveillantes du professeur. Les subtilités des techniques, entre chutes et prises, se dévoilaient, façonnant ainsi des moments d'apprentissage et d'épanouissement au sein de cette discipline raffinée.
 
@@ -530,7 +530,7 @@ Au cours des séances de judo, une effervescence empreinte d'enthousiasme nous a
 Pendant nos cours de judo, on était à fond ! Tous les mardis, on se mettait nos kimonos et on se laissait guider par le prof sur le tatami. Il nous montrait des trucs chelous, genre des chutes bizarres, et on essayait de pas se ramasser comme des quiches. C'était trop marrant !
 
 </div>
-    
+
 :::
 
 :::exemple collapsible Création d'un texte support en Anglais (lycée) sur la distinction entre la première et la deuxième génération des droits humains
@@ -540,18 +540,18 @@ Crée un texte d'environ 100 mots en anglais, niveau lycée, qui explique ce que
 <div markdown class="IA">
 
 Human rights are categorized into two broad generations, each reflecting the evolving societal needs and aspirations.
-    
+
 The first generation, often termed "civil and political rights," emerged in the 18th and 19th centuries. These rights encompass individual liberties, such as freedom of speech, the right to a fair trial, and the prohibition of torture. They were vital during struggles for democracy and against oppressive regimes.
 
 The second generation, known as "economic, social, and cultural rights," emerged in the 20th century. These rights focus on collective well-being, including the right to work and an adequate standard of living. They address social and economic inequalities and are particularly crucial in promoting social justice and human dignity.
 
 </div>
- 
+
 :::
 
 #### 2/ Créer une image support
 
-:::exemple collapsible Création d'une image en physique (6ème) pour illustrer les états de la matière 
+:::exemple collapsible Création d'une image en physique (6ème) pour illustrer les états de la matière
 
 Description de l'image : Un glacier au fond, quelqu'un en gros plan qui boit de l'eau et de la vapeur d'eau qui sort de sa bouche {.user}
 
@@ -573,9 +573,9 @@ Two students are chatting opposite each other. The boy is wearing a strict schoo
 ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_7baebd8411f20ef6e43f8b4a83a4b007.png) {.IA}
 
 <div markdown class="IA">
-    
+
 Autre image générée avec le même prompt, en choisissant un style réaliste.
-    
+
 ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_8049db0403a45cccb08002411f13ab2f.png)
 
 </div>
@@ -598,7 +598,7 @@ Bien sûr, voici une liste définissant les termes que vous avez mentionnés pou
 - Missionnaire : Une personne envoyée pour propager une religion, une foi ou une idéologie particulière dans une région spécifique.
 - Missi Dominici : Des émissaires envoyés dans l'Empire carolingien pour superviser les affaires locales et s'assurer que les directives royales étaient suivies.
 - Monastère : Un établissement religieux où des moines ou des moniales vivent en communauté, consacrés à la prière, à l'étude et au travail.
-- Capitulaire : Un capitulaire est une disposition législative ou un décret émis par un souverain, en particulier dans le contexte de l'Empire carolingien. 
+- Capitulaire : Un capitulaire est une disposition législative ou un décret émis par un souverain, en particulier dans le contexte de l'Empire carolingien.
 - Écriture caroline : style d'écriture développé à l'époque de Charlemagne, caractérisé par des lettres claires et uniformes, jouant un rôle important dans la préservation des textes et des connaissances au sein de l'Empire carolingien.
 
 En ce qui concerne les dates spécifiques :
@@ -648,7 +648,7 @@ Définition : L'exclusion sociale se produit lorsque des individus ou des groupe
 ##### Multiculturalisme :
 
 Définition : Le multiculturalisme reconnaît et valorise la diversité culturelle au sein d'une société. Il encourage le respect des différences et la coexistence pacifique des différentes identités culturelles.
-    
+
 ##### Intégration sociale :
 
 Définition : L'intégration sociale implique l'incorporation réussie des individus dans la société, en favorisant leur participation active et leur adhésion aux normes et valeurs communes.
@@ -656,15 +656,15 @@ Définition : L'intégration sociale implique l'incorporation réussie des indiv
 ##### Anomie :
 
 Définition : L'anomie se réfère à un état de désintégration sociale où les normes et les valeurs perdent leur influence, entraînant une confusion et une perte de repères au sein de la société.
-    
+
 ##### Solidarité :
 
 Définition : La solidarité représente le sentiment d'interdépendance et de responsabilité mutuelle entre les membres d'une société, contribuant à renforcer le tissu social.
-    
+
 ##### Normes sociales :
 
-Définition : Les normes sociales sont des règles tacites ou explicites qui définissent le comportement attendu au sein d'une société, jouant un rôle clé dans la préservation du lien social.    
-    
+Définition : Les normes sociales sont des règles tacites ou explicites qui définissent le comportement attendu au sein d'une société, jouant un rôle clé dans la préservation du lien social.
+
 </div>
 
 
@@ -819,7 +819,7 @@ Propose 3 questions en anglais pour vérifier que les étudiants ont compris ce 
 « Deontology and consequentialism are key terms in philosophical debate, which describe two opposing approaches to ethical issues. Derived from the Greek word deon, or duty, deontology presumes that actions are right or wrong regardless of consequences. The father of these ‘duty-based’ ethics, Immanuel Kant, argued that subjective and situation-specific assessments are not a reliable source of morality. Universal laws are therefore necessary to govern our behaviour. Kant’s universal laws were born from the notion that humans have intrinsic worth, or dignity, by virtue of their unique rationality. To violate their autonomy- by deceiving them, slaying them or enslaving them- is to disrespect this dignity. In _Groundwork of the Metaphysic of Morals_ he wrote: ‘Every rational being exists as an end in himself and not merely as a means to be arbitrarily used by this or that will’. »
 
 </div>
-    
+
 <div markdown class="IA">
 Certainly, here are three questions in English to check if students have understood the text on Deontological Ethics and Nonhuman Animals:
 - What is the fundamental concept of deontology, and how does it differ from consequentialism in approaching ethical issues?
@@ -838,7 +838,7 @@ Certainly, here are five questions formulated around the source of our moral dut
 - In the text, what is the role of humans' intrinsic worth and dignity in determining our moral duties?
 - Can you explain how Kant's perspective on treating rational beings as "ends in themselves" influences the source of our moral duties?
 </div>
-    
+
 :::
 
 
@@ -856,7 +856,7 @@ L'intrigue tourne autour de la lutte pour la justice sociale et la rédemption p
 
 Le roman est divisé en cinq parties et couvre une période de plusieurs décennies. Il offre un aperçu profond et poignant de la société française de l'époque, avec un accent particulier sur les conditions de vie des pauvres et les luttes pour la justice et la liberté.
 
-Si vous souhaitez poser des questions sous forme de QCM, je peux vous aider à formuler des questions QCM si vous le souhaitez.   
+Si vous souhaitez poser des questions sous forme de QCM, je peux vous aider à formuler des questions QCM si vous le souhaitez. 
 
 </div>
 
@@ -972,7 +972,7 @@ Tu es un conseiller en pédagogie qui aide les enseignants. Je suis un enseignan
 </div>
 
 <div markdown class="IA">
-    
+
  Cette image intitulée "La Caverne Moderne" semble être une caricature moderne de la célèbre allégorie de la caverne de Platon. Dans l'allégorie originale, Platon décrit des hommes enchaînés dans une caverne, face à un mur, ne voyant que les ombres projetées par des objets passant devant un feu derrière eux. Platon utilise cette métaphore pour illustrer la situation des humains face à la connaissance : les ombres représentent les perceptions sensorielles du monde, tandis que la réalité hors de la caverne (que les prisonniers ne peuvent voir) représente le monde des idées, accessible seulement par la raison.
 
 Dans l'interprétation moderne que nous avons ici, la caverne semble être remplacée par un espace domestique où une personne est enchaînée non pas par des liens physiques mais par des câbles à son bureau et à son ordinateur. Cela pourrait représenter l'esclavage numérique ou la dépendance à la technologie, où les individus sont "enchaînés" par leur dépendance aux appareils électroniques, réduisant leur vision du monde aux images qui leur sont présentées sur les écrans.
@@ -1004,8 +1004,8 @@ Voici quelques pistes pour l'analyse et la discussion en classe :
    - Comment cette image peut-elle être utilisée pour parler de l'utilisation de la technologie dans l'éducation?
    - Quel est le rôle de l'éducateur dans la navigation entre les avantages de la technologie et les risques de dépendance ou de distraction?
 
-Cette image peut servir de point de départ pour une discussion profonde sur la manière dont la technologie influence notre compréhension de la réalité et notre capacité à réfléchir de manière critique. Cela peut également amener les élèves à réfléchir à leur propre usage de la technologie et à envisager des façons de gérer cet usage de manière à favoriser une relation plus équilibrée et consciente avec les outils numériques.  
-    
+Cette image peut servir de point de départ pour une discussion profonde sur la manière dont la technologie influence notre compréhension de la réalité et notre capacité à réfléchir de manière critique. Cela peut également amener les élèves à réfléchir à leur propre usage de la technologie et à envisager des façons de gérer cet usage de manière à favoriser une relation plus équilibrée et consciente avec les outils numériques.
+
 </div>
 
 :::
@@ -1044,10 +1044,10 @@ Questions à Choix Multiples (QCM)
 
 ##### Quelle est la principale différence entre les volcans rouges et les volcans gris ?
 
-A) Les volcans rouges sont plus hauts que les volcans gris.  
-B) Les volcans rouges émettent principalement de la lave fluide, tandis que les volcans gris sont explosifs et projettent des cendres.  
-C) Les volcans gris sont plus fréquents que les volcans rouges.  
-D) Les volcans rouges se trouvent uniquement en Indonésie.  
+A) Les volcans rouges sont plus hauts que les volcans gris.
+B) Les volcans rouges émettent principalement de la lave fluide, tandis que les volcans gris sont explosifs et projettent des cendres.
+C) Les volcans gris sont plus fréquents que les volcans rouges.
+D) Les volcans rouges se trouvent uniquement en Indonésie.
 
 Feedback Correct (B) : Excellent ! Les volcans rouges sont effusifs et émettent de la lave fluide, tandis que les volcans gris sont explosifs et projettent des cendres et des gaz.
 
@@ -1055,10 +1055,10 @@ Feedback Incorrect : Réessayez. La différence clé entre les volcans rouges et
 
 ##### Que se passe-t-il dans la chambre magmatique d'un volcan avant une éruption ?
 
-A) Le magma se refroidit et se solidifie.  
-B) Des bulles de gaz se forment et augmentent la pression.  
-C) Le magma sort immédiatement par la cheminée.  
-D) La chambre magmatique se vide complètement.  
+A) Le magma se refroidit et se solidifie.
+B) Des bulles de gaz se forment et augmentent la pression.
+C) Le magma sort immédiatement par la cheminée.
+D) La chambre magmatique se vide complètement.
 
 Feedback Correct (B) : Parfait ! Des bulles de gaz se forment dans la chambre magmatique, augmentant la pression jusqu'à l'éruption.
 
@@ -1173,12 +1173,12 @@ Pour commencer la correction, je vais répondre à la première question de comp
 - b) Le personnage principal est l'auteur lui-même en tant que jeune garçon, Michel Pastoureau, qui est également le narrateur. Le texte appartient au genre littéraire autobiographique puisqu'il s'agit d'un souvenir personnel de l'auteur. (3 points)
 
 Pour les réponses suivantes, je vais procéder étape par étape pour chaque question. Voulez-vous que je continue avec les réponses aux autres questions ou avez-vous une demande spécifique pour la suite ?
-    
+
 </div>
  
 Continue avec les réponses aux autres questions. {.user}
-    
-    
+
+
 <div markdown class="IA">
   Très bien, poursuivons avec les réponses aux questions de compréhension et compétences d’interprétation :
 
@@ -1267,20 +1267,20 @@ Les IA génératives peuvent aussi adapter le document pour qu'il respecte un fo
 
 Je veux que tu transforme le plan de mon cours en une carte mentale au format Markdown : 
 
-Séquence 1 : Éthique et philosophie morale  
-Chapitre 1 : Le bonheur  
-Q1 – Peut-on parvenir au bonheur ?  
-Q1a – Peut-on savoir ce qu'est le bonheur ?  
-Q1b – Le désir nous fait-il nécessairement souffrir ?  
-Q1c – Que pouvons-nous face au tragique de l'existence ?  
-Q2 - Le bonheur est-il le but de l'existence ?  
-Chapitre 2 : La morale  
-Q1 – Y a-t-il une vérité en morale ?  
-Q1a – La morale est-elle subjective ?  
-Q1b - La morale est-elle relative à chaque culture ?  
-Q2 – Comment peut-on savoir ce qui est bien et ce qui est mal ?  
-Q2a – La morale repose sur nos sentiments, sur notre sensibilité ?  
-Q2b – Comment la réflexion peut-elle nous guider moralement ?  
+Séquence 1 : Éthique et philosophie morale
+Chapitre 1 : Le bonheur
+Q1 – Peut-on parvenir au bonheur ?
+Q1a – Peut-on savoir ce qu'est le bonheur ?
+Q1b – Le désir nous fait-il nécessairement souffrir ?
+Q1c – Que pouvons-nous face au tragique de l'existence ?
+Q2 - Le bonheur est-il le but de l'existence ?
+Chapitre 2 : La morale
+Q1 – Y a-t-il une vérité en morale ?
+Q1a – La morale est-elle subjective ?
+Q1b - La morale est-elle relative à chaque culture ?
+Q2 – Comment peut-on savoir ce qui est bien et ce qui est mal ?
+Q2a – La morale repose sur nos sentiments, sur notre sensibilité ?
+Q2b – Comment la réflexion peut-elle nous guider moralement ?
 
 </div>
 
@@ -1305,7 +1305,7 @@ Q2b – Comment la réflexion peut-elle nous guider moralement ?
       - Q2b – Comment la réflexion peut-elle nous guider moralement ?
 </pre>
 
-<aside>On peut ensuite copier-coller ce Markdown dans une application comme <a href="https://mymarkmap.netlify.app/">myMarkmap</a>, ce qui produirait alors la carte mentale ci-dessous <a href="https://mymarkmap.netlify.app/#---%0AmaxWidth:%20200%0A---%0A%0A#%20S%C3%A9quence%201%20:%20%C3%89thique%20et%20Philosophie%20Morale%0A%0A##%20Chapitre%201%20:%20%5C%5CLe%20Bonheur%0A%20%20%20-%20Q1%20%E2%80%93%20Peut-on%20parvenir%20au%20bonheur%20?%0A%20%20%20%20%20%20-%20Q1a%20%E2%80%93%20Peut-on%20savoir%20ce%20qu'est%20le%20bonheur%20?%0A%20%20%20%20%20%20-%20Q1b%20%E2%80%93%20Le%20d%C3%A9sir%20nous%20fait-il%20n%C3%A9cessairement%20souffrir%20?%0A%20%20%20%20%20%20-%20Q1c%20%E2%80%93%20Que%20pouvons-nous%20faire%20face%20au%20tragique%20de%20l'existence%20?%0A%20%20%20-%20Q2%20-%20Le%20bonheur%20est-il%20le%20but%20de%20l'existence%20?%0A%0A##%20Chapitre%202%20:%20%5C%5CLa%20Morale%0A%20%20%20-%20Q1%20%E2%80%93%20Y%20a-t-il%20une%20v%C3%A9rit%C3%A9%20en%20morale%20?%0A%20%20%20%20%20%20-%20Q1a%20%E2%80%93%20La%20morale%20est-elle%20subjective%20?%0A%20%20%20%20%20%20-%20Q1b%20-%20La%20morale%20est-elle%20relative%20%C3%A0%20chaque%20culture?%0A%20%20%20-%20Q2%20%E2%80%93%20Comment%20peut-on%20savoir%20ce%20qui%20est%20bien%20et%20ce%20qui%20est%20mal%20?%0A%20%20%20%20%20%20-%20Q2a%20%E2%80%93%20La%20morale%20repose%20sur%20nos%20sentiments,%20sur%20notre%20sensibilit%C3%A9%20?%0A%20%20%20%20%20%20-%20Q2b%20%E2%80%93%20Comment%20la%20r%C3%A9flexion%20peut-elle%20nous%20guider%20moralement%20?"><img src="https://minio.apps.education.fr/codimd-prod/uploads/upload_4e469f52fd86ed9b23bb5aeaf281a423.png" /></a>  
+<aside>On peut ensuite copier-coller ce Markdown dans une application comme <a href="https://mymarkmap.netlify.app/">myMarkmap</a>, ce qui produirait alors la carte mentale ci-dessous <a href="https://mymarkmap.netlify.app/#---%0AmaxWidth:%20200%0A---%0A%0A#%20S%C3%A9quence%201%20:%20%C3%89thique%20et%20Philosophie%20Morale%0A%0A##%20Chapitre%201%20:%20%5C%5CLe%20Bonheur%0A%20%20%20-%20Q1%20%E2%80%93%20Peut-on%20parvenir%20au%20bonheur%20?%0A%20%20%20%20%20%20-%20Q1a%20%E2%80%93%20Peut-on%20savoir%20ce%20qu'est%20le%20bonheur%20?%0A%20%20%20%20%20%20-%20Q1b%20%E2%80%93%20Le%20d%C3%A9sir%20nous%20fait-il%20n%C3%A9cessairement%20souffrir%20?%0A%20%20%20%20%20%20-%20Q1c%20%E2%80%93%20Que%20pouvons-nous%20faire%20face%20au%20tragique%20de%20l'existence%20?%0A%20%20%20-%20Q2%20-%20Le%20bonheur%20est-il%20le%20but%20de%20l'existence%20?%0A%0A##%20Chapitre%202%20:%20%5C%5CLa%20Morale%0A%20%20%20-%20Q1%20%E2%80%93%20Y%20a-t-il%20une%20v%C3%A9rit%C3%A9%20en%20morale%20?%0A%20%20%20%20%20%20-%20Q1a%20%E2%80%93%20La%20morale%20est-elle%20subjective%20?%0A%20%20%20%20%20%20-%20Q1b%20-%20La%20morale%20est-elle%20relative%20%C3%A0%20chaque%20culture?%0A%20%20%20-%20Q2%20%E2%80%93%20Comment%20peut-on%20savoir%20ce%20qui%20est%20bien%20et%20ce%20qui%20est%20mal%20?%0A%20%20%20%20%20%20-%20Q2a%20%E2%80%93%20La%20morale%20repose%20sur%20nos%20sentiments,%20sur%20notre%20sensibilit%C3%A9%20?%0A%20%20%20%20%20%20-%20Q2b%20%E2%80%93%20Comment%20la%20r%C3%A9flexion%20peut-elle%20nous%20guider%20moralement%20?"><img src="https://minio.apps.education.fr/codimd-prod/uploads/upload_4e469f52fd86ed9b23bb5aeaf281a423.png" /></a>
 </aside>
 
 
@@ -1355,7 +1355,7 @@ L'IA générative peut être utilisée pour transformer un texte en carte mental
 <div markdown class="user">
 
 Transforme ce texte sur la reconnaissance sociale selon Honneth en une carte mentale en markdown :
-    
+
 Honneth [formule] deux thèses. Premièrement, le sujet de l’action n’existe qu’à condition d’être reconnu : il n’est pas de sujet moral ou pratique dont la valeur n’ait d’abord été confirmée par les autres. Deuxièmement, la nécessité d’être reconnu prend sa source dans l’expérience du mépris (Miβachtung), c’est-à-dire dans l’expérience fondatrice d’un manque de reconnaissance. […]
 Le premier mode de reconnaissance mutuelle est la relation d’amour, par laquelle l’individu parvient à la “confiance en soi”, c’est-à-dire à une certaine sécurité émotionnelle. Axel Honneth s’appuie sur l’œuvre du psychanalyste anglais Donald Winnicott, qui montre par quelles étapes l’enfant accède à un équilibre satisfaisant entre la symbiose avec la mère (qui permet la sécurité) et l’affirmation de soi (qui permet l’autonomie). Au terme de ce processus, l’individu acquiert la “capacité à être seul”, condition nécessaire de toute créativité, que celle-ci soit enfantine ou adulte. Les affects et les besoins de l’individu se voient alors reconnus, non seulement au sens où il lui devient possible de les éprouver légitimement, mais également en ceci qu’il peut les faire connaître aux autres en toute tranquillité. Honneth clôt ce premier moment en soulignant qu’il ne sépare pas abstraitement la reconnaissance “privée” que rend possible l’amour et la reconnaissance “publique” dont il va être question. Il précise qu’un individu ne saurait participer à la vie publique de façon autonome sans la confiance en soi minimale que le lien d’amour a pu élaborer.
 Le deuxième mode de reconnaissance mutuelle est la relation juridique, par laquelle l’individu se voit reconnu comme une personne dotée de droits. Le respect de soi est l’effet subjectif de cette reconnaissance, la responsabilité morale de l’individu se trouve alors reconnue. Les droits reconnaissent en effet à l’individu “la capacité de se prononcer d’une manière rationnelle et autonome sur les questions morales”.
@@ -1398,7 +1398,7 @@ L’estime sociale désigne le troisième mode de reconnaissance. Ce qui est est
 - L'individu acquiert le sentiment de sa propre valeur.
 
 </pre>
-    
+
 </div>
 
 <aside>Avec l'application myMarkmap, on obtiendrait la carte mentale suivante : <a href="https://mymarkmap.netlify.app/#---%0AmaxWidth:%20400%0A---%0A%0A#%20La%20reconnaissance%20sociale%20%5C%5Cselon%20Honneth%0A%0A##%20Th%C3%A8ses%20%5C%5Cd'Honneth%0A-%20**Premi%C3%A8re%20Th%C3%A8se**%0A%20%20-%20Sujet%20de%20l'action%20n'existe%20qu'%C3%A0%20travers%20la%20reconnaissance.%0A%20%20-%20Aucun%20sujet%20moral/pratique%20sans%20confirmation%20par%20autrui.%0A-%20**Deuxi%C3%A8me%20Th%C3%A8se**%0A%20%20-%20N%C3%A9cessit%C3%A9%20de%20reconnaissance%20provient%20de%20l'exp%C3%A9rience%20du%20m%C3%A9pris.%0A%20%20-%20M%C3%A9pris%20(Mi%CE%B2achtung)%20cr%C3%A9e%20un%20manque%20de%20reconnaissance.%0A%0A##%20Modes%20de%20%5C%5CReconnaissance%20%5C%5CMutuelle%0A###%201.%20Relation%20d'Amour%0A-%20S'appuie%20sur%20Donald%20Winnicott.%0A-%20Processus%20d'acc%C3%A8s%20%C3%A0%20l'%C3%A9quilibre%20entre%20symbiose%20et%20affirmation%20de%20soi.%0A-%20aboutit%20%C3%A0%20la%20%22confiance%20en%20soi%22%20et%20%22capacit%C3%A9%20%C3%A0%20%C3%AAtre%20seul%22.%0A-%20Condition%20n%C3%A9cessaire%20%C3%A0%20la%20cr%C3%A9ativit%C3%A9.%0A-%20Reconnaissance%20%22priv%C3%A9e%22%20de%20l'amour%20est%20li%C3%A9e%20%C3%A0%20la%20reconnaissance%20%22publique%22.%0A%0A###%202.%20Relation%20Juridique%0A-%20Individu%20reconnu%20comme%20personne%20dot%C3%A9e%20de%20droits.%0A-%20Respect%20de%20soi%20comme%20effet%20subjectif.%0A-%20Responsabilit%C3%A9%20morale%20reconnue.%0A-%20Droits%20permettent%20la%20capacit%C3%A9%20de%20se%20prononcer%20de%20mani%C3%A8re%20rationnelle%20et%20autonome%20sur%20les%20questions%20morales.%0A%0A###%203.%20Estime%20Sociale%0A-%20Troisi%C3%A8me%20mode%20de%20reconnaissance.%0A-%20Estime%20des%20capacit%C3%A9s%20et%20qualit%C3%A9s%20singuli%C3%A8res%20des%20individus.%0A-%20Diff%C3%A9rence%20avec%20la%20reconnaissance%20juridique.%0A-%20L'estime%20sociale%20provient%20de%20la%20sympathie%20sociale%20et%20solidarit%C3%A9.%0A-%20L'individu%20acquiert%20le%20sentiment%20de%20sa%20propre%20valeur."><img src="https://minio.apps.education.fr/codimd-prod/uploads/upload_67d1c155ce38e40942f1e3fb7ce3c48a.png" /></a></aside>
@@ -1576,7 +1576,7 @@ Voici le lien : https://barnies.fr/mouvements-artistiques/
 <div markdown class="user">
 
 Transforme ce texte en tableau en 3 colonnes :
-    
+
 Le neurologue Antonio Damasio distingue trois formes de Soi : 
 – Le proto-soi désigne le fait qu'il existe dans le cerveau un ensemble de réseaux neuronaux qui représentent les états physiques internes de l'organisme ; le proto-soi est largement non-conscient, mais il est aussi ce qui rend possible la conscience de son propre corps comme le sien ;
 – Le soi central désigne un certain sentiment de soi qui émerge dans l'instant présent lors des interactions avec l'environnement, dans la perception, l'action ou la pensée présente ; il est au fondement de la capacité de reconnaître ses propres actes comme provenant de soi comme étant sous son contrôle ;
@@ -1606,7 +1606,7 @@ Le neurologue Antonio Damasio distingue trois formes de Soi :
 
 Recopie le texte suivant en mettant en gras les termes importants et en sautant une ligne entre chaque phrase :
 
-De nombreux progrès techniques se produisent tout au long du XIXe siècle. Ils sont l’œuvre de techniciens, puis, progressivement, d’ingénieurs et de savants. La machine à vapeur est mise au point par James Watt en 1763. Elle fonctionne d’abord au bois, puis au charbon et enfin au coke (dérivé du charbon). Elle est utilisée dans un grand nombre de domaines industriels et devient la source d’énergie d’usines de plus en plus grosses, notamment dans le textile (machines à filer et à tisser) et dans la métallurgie. Peu à peu perfectionnée, la machine à vapeur fait fonctionner les locomotives, les bateaux et les machines agricoles. 
+De nombreux progrès techniques se produisent tout au long du XIXe siècle. Ils sont l’œuvre de techniciens, puis, progressivement, d’ingénieurs et de savants. La machine à vapeur est mise au point par James Watt en 1763. Elle fonctionne d’abord au bois, puis au charbon et enfin au coke (dérivé du charbon). Elle est utilisée dans un grand nombre de domaines industriels et devient la source d’énergie d’usines de plus en plus grosses, notamment dans le textile (machines à filer et à tisser) et dans la métallurgie. Peu à peu perfectionnée, la machine à vapeur fait fonctionner les locomotives, les bateaux et les machines agricoles.
 
 </div>
 
@@ -1736,9 +1736,9 @@ Donne ton avis et des améliorations. Voici le plan :
 4.3 L’optimisation du référencement
 5. Sécurité et vie privée sur le Web
 5.1 La gestion des paramètres du navigateur
-5.2 L’historique de navigation   
+5.2 L’historique de navigation 
 </div>
-    
+
 <div markdown class="IA">
 Votre plan de cours semble bien structuré et couvre les aspects essentiels que les élèves de seconde devraient connaître sur le Web. Voici quelques suggestions pour l'améliorer :
 
@@ -1780,7 +1780,7 @@ Enfin, assurez-vous que le plan de cours est flexible. Soyez prêt à passer plu
 Réécris le plan de cours avec tes remarques. Tu peux changer des titres si cela te paraît pertinent. {.user}
 
 <div markdown class="IA">
-    
+
 Bien sûr, voici une version révisée de votre plan de cours, intégrant les suggestions pour renforcer l'apprentissage et l'engagement des élèves :
 
 1. Histoire et Evolution du Web
@@ -1825,7 +1825,7 @@ Interactivité et Pratique Transdisciplinaire
 
 En intégrant des activités pratiques, des démonstrations, des discussions de groupe et des projets interactifs, vous favoriserez une meilleure compréhension et une participation active des élèves. Cela contribuera également à développer des compétences pratiques et une pensée critique autour des sujets abordés.
 </div>
-  
+
 ::: 
 
 ### ✏️ Activités & documents
@@ -1954,9 +1954,9 @@ c. Un fichier HTML est constitué de deux parties : ...
 d. Un ... permet d’atteindre une autre page du
 même site ou d’un autre site.
 </div>
-         
+ 
 <div markdown class="IA">
-                    
+
 L'évaluation que vous avez élaborée couvre un certain nombre de points clés sur le Web, mais il y a des possibilités pour la rendre plus robuste et complète.
 
 Vrai ou Faux ?
@@ -1998,14 +1998,14 @@ e. Une URL complète se compose de ... , ... , et ... .
 
 En intégrant ces types de questions, vous pouvez offrir une évaluation plus complète de la compréhension des élèves et de leur capacité à utiliser les connaissances dans des contextes variés.
 </div>
-                        
+
 <div class="user">
 Redonne-moi l'évaluation complétée avec tes remarques et tes ajouts.
 Donne à chaque fois la bonne réponse.
 </div>
-    
+
 <div markdown class="IA">
-                        
+
 Voici l'évaluation révisée avec les remarques et les ajouts, accompagnée des bonnes réponses.
 Vrai ou Faux ?
 
@@ -2052,8 +2052,8 @@ c. Un fichier HTML est constitué de deux parties principales : la tête (head) 
 d. Un lien hypertexte permet d’atteindre une autre page du même site ou d’un autre site.
 e. Une URL complète se compose du protocole, du nom de domaine et du chemin d'accès.
 
-Vous pouvez utiliser cette évaluation révisée pour tester les connaissances de vos élèves après avoir enseigné le cours sur le Web. Les réponses fournies peuvent également servir de guide de correction.                    
-                        
+Vous pouvez utiliser cette évaluation révisée pour tester les connaissances de vos élèves après avoir enseigné le cours sur le Web. Les réponses fournies peuvent également servir de guide de correction.
+
 </div>
 
 :::
