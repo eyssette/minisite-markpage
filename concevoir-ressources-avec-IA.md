@@ -10,11 +10,11 @@ Nous nous concentrons ici sur les utilisations pertinentes de l'IA pour la **con
 
 > Nous avons identifié **trois gestes professionnels** essentiels : 
 > 
-> ![](img/trois-gestes-professionnels.png)
+> ![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/trois-gestes-professionnels.png)
 > 
 > Pour chacun de ces gestes professionnels, on peut envisager **trois types d'utilisation** de l'IA :
 > 
-> ![](img/trois-usages-IA.png)
+> ![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/trois-usages-IA.png)
 
 
 Nous vous proposons de partir de cette distinction des usages de l'IA et de vous donner des exemples de la manière dont on peut utiliser à profit l'IA d'un point de vue professionnel.
