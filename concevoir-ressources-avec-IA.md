@@ -189,7 +189,7 @@ Voici les contenus que je souhaite traiter:
 
 <div markdown class="IA">
 
-our planifier une série de séances sur les réseaux sociaux pour des élèves de seconde, nous allons diviser le contenu en modules et allouer le temps de manière efficace. Voici une proposition de planification détaillée :
+Pour planifier une série de séances sur les réseaux sociaux pour des élèves de seconde, nous allons diviser le contenu en modules et allouer le temps de manière efficace. Voici une proposition de planification détaillée :
 
 ##### Séance 1: Introduction aux Réseaux Sociaux et Identité Numérique (1h30)
 
@@ -392,7 +392,7 @@ Débats éthiques sur les avancées technologiques liées au corps
 
 :::exemple collapsible Exemple en philosophie (terminales) pour expliquer le concept d'idéologie selon Marx
 
-Propose un ensemble d'étapes claire qui expliquent pas à pas le concept d'idéologie selon Marx à un élève de lycée niveau terminale. {.user}
+Propose un ensemble d'étapes claires qui expliquent pas à pas le concept d'idéologie selon Marx à un élève de lycée niveau terminale. {.user}
 
 <div markdown class="IA">
 
@@ -407,7 +407,7 @@ Comprendre le Concept d'Idéologie Selon Marx - Niveau Terminale
 - **Exemple :** Une société agricole avec des paysans aura une base matérielle différente de celle d'une société industrielle.
 
 3/ **Superstructure et Idéologie**
-- **Définition simple :** La superstructure englobe les idées, croyances, et institutions d'une société, y compris l'idéologie.
+- **Définition simple :** La superstructure englobe les idées, croyances et institutions d'une société, y compris l'idéologie.
 - **Exemple :** Les lois, les médias, la religion, etc.
 
 4/ **Citation Fondamentale**
@@ -500,7 +500,7 @@ Comprendre et maîtriser les concepts et les techniques de base de la géométri
 
 3/ Raisonnement et Démonstration
 - Utiliser le raisonnement logique pour vérifier l'alignement de points.
-- Démontrer la parallélisme ou l'intersection de droites.
+- Démontrer le parallélisme ou l'intersection de droites.
 
 4/ Résolution de Problèmes
 - Appliquer des méthodes algébriques pour résoudre des systèmes d'équations.
@@ -519,7 +519,7 @@ On peut spécifier des contraintes à respecter, au niveau du contenu ou bien au
 
 :::exemple collapsible Création de deux textes supports en Français (CM1/CM2) pour faire comprendre la distinction entre registre soutenu et registre familier
 
-Ecris un texte d'environ 50 mots sur le thème du judo avec un registre soutenu, puis le même texte avec un registre familier, pour des élèves en CM1-CM2. {.user}
+Écris un texte d'environ 50 mots sur le thème du judo avec un registre soutenu, puis le même texte avec un registre familier, pour des élèves en CM1-CM2. {.user}
 
 <div markdown class="IA">
 
@@ -585,7 +585,7 @@ Autre image générée avec le même prompt, en choisissant un style réaliste.
 
 #### 3/ Créer une liste des concepts importants et de leurs définitions
 
-:::exemple collapsible Définir une liste de termes et expliquer la signification d'une liste de dates dans un cours en histoire (5ème)
+:::exemple collapsible Définir une liste de termes et expliquer la signification d'une liste de dates dans un cours en histoire (5e)
 
 Dans le cadre d'un cours pour des élèves au collège en 5e sur l'empire byzantin et l'empire carolingien, fais une liste en définissant les termes suivants : empire, patriarche, missionnaire, missi dominici, monastère, capitulaire, écriture caroline ; puis explique la signification de ces dates : 800, 843, 1054, 1453 {.user}
 
@@ -845,22 +845,7 @@ Certainly, here are five questions formulated around the source of our moral dut
 :::exemple collapsible Questionnaire de lecture en Français sur <i>Les Misérables</i>
 
 <div markdown class="user">
-Je suis un enseignant de français en collège et je souhaite poser des questions que le livre "Les misérables" sous forme de QCM.
-Fais-moi tout d'abord un résumé
-</div>
-
-<div markdown class="IA">
- "Les Misérables" est un roman écrit par Victor Hugo, publié pour la première fois en 1862. Il se déroule en France au XIXe siècle et raconte l'histoire de plusieurs personnages, dont l'un des principaux est Jean Valjean, un ancien forçat qui cherche la rédemption.
-
-L'intrigue tourne autour de la lutte pour la justice sociale et la rédemption personnelle, avec des thèmes tels que la pauvreté, l'injustice, l'amour, la révolution et la quête de sens. Parmi les autres personnages importants, on trouve Cosette, la jeune fille que Valjean prend sous son aile ; Marius, un jeune homme épris de Cosette ; Javert, l'inspecteur de police déterminé à capturer Valjean ; et de nombreux autres personnages secondaires.
-
-Le roman est divisé en cinq parties et couvre une période de plusieurs décennies. Il offre un aperçu profond et poignant de la société française de l'époque, avec un accent particulier sur les conditions de vie des pauvres et les luttes pour la justice et la liberté.
-
-Si vous souhaitez poser des questions sous forme de QCM, je peux vous aider à formuler des questions QCM si vous le souhaitez. 
-
-</div>
-
-Fais le qcm le plus long possible{.user}
+Je suis un enseignant de français en collège et je souhaite poser des questions sur le livre "Les misérables" sous forme de QCM. Fais le qcm le plus long possible {.user}
 
 <div markdown class="IA">
 Bien sûr, voici un QCM relativement long sur "Les Misérables". Assurez-vous de le personnaliser ou de le découper en plusieurs questions si nécessaire pour vos besoins pédagogiques :
@@ -1092,14 +1077,14 @@ Le principe est d'abord d'apprendre à l'IA la syntaxe du logiciel pour ensuite 
 
 <div markdown class="user">
 
-Je t'explique la syntaxe de text2quiz pour rédiger un quiz, qui est la suivante :
+Je t'explique la syntaxe de Text2quiz pour rédiger un quiz, qui est la suivante :
 - pour un vrai/faux : écrire "VF || Proposition || V"  avec à la fin V si c'est vrai / F si c'est faux
 - pour une flashcard : écrire "Flashcard || Question || Réponse"
-- pour une remise dans l'ordre de plusieurs items : écrire "Ordre || Item 1 | Item 2 | Item 3 || Consigne" ; pour 4 items ce serait : "Ordre || Item 1 | Item 2 | Item 3  | Item 4 || Consigne" Attention, la consigne ou la question qui explique ce qu'il faut faire doit être mise à la fin ici
-- pour un QCM : écrire "QCM || Question || Réponse 1 | Réponse 2 | Réponse 3 | Réponse 4" et ajouter  "V:" juste devant chaque réponse vraie 
+- pour une remise dans l'ordre de plusieurs items : écrire "Ordre || Item 1 | Item 2 | Item 3 || Consigne" ; pour 4 items, ce serait : "Ordre || Item 1 | Item 2 | Item 3 | Item 4 || Consigne" Attention, la consigne ou la question qui explique ce qu'il faut faire doit être mise à la fin ici
+- pour un QCM : écrire "QCM || Question || Réponse 1 | Réponse 2 | Réponse 3 | Réponse 4" et ajouter "V:" juste devant chaque réponse vraie 
 - pour l'association entre un item et son étiquette : écrire "Association || {{Item 1 | Étiquette 1}}{{Item 2 | Étiquette 2}}" et ajouter {{Item 3 | Étiquette 3}} et ainsi de suite s'il y a plusieurs items
 
-As-tu compris la syntaxe ? Réponds simplement par oui ou par non. Tu devras ensuite produire des quiz en respectant la syntaxe de text2quiz que tu viens d'apprendre et que tu devras retenir pour tous les prochains quiz que je te demanderai de faire.
+As-tu compris la syntaxe ? Réponds simplement par oui ou par non. Tu devras ensuite produire des quiz en respectant la syntaxe de Text2quiz que tu viens d'apprendre et que tu devras retenir pour tous les prochains quiz que je te demanderai de faire.
 </div>
 
 Oui {.IA}
@@ -1127,7 +1112,7 @@ L'IA peut même proposer une correction d'une évaluation. Pour des questions si
 
 Pour des questions plus complexes, les réponses risquent d'être plus vagues et de comporter davantage d'hallucinations, mais ce type de document peut éventuellement être le support d'un exercice à faire faire aux élèves : on peut leur proposer de corriger et d'améliorer le corrigé de l'IA.
 
-:::exemple collapsible Corrigé d'un sujet de Francais (brevet)
+:::exemple collapsible Corrigé d'un sujet de Français (brevet)
  
 <div markdown class="user">
 Tu es un conseiller en pédagogie qui aide les enseignants à créer les corrections d'évaluation. Je suis un enseignant de français en collège avec des élèves de troisièmes qui vont passer l'épreuve du brevet. Je vais te donner le PDF d'un sujet de Français et tu vas la correction de ce sujet en répondant à chaque question. Voici le PDF: https://eduscol.education.fr/document/53331/download
@@ -1653,7 +1638,7 @@ Oui
 
 <div markdown class="user">
 
-Voici une liste de questions avec à chaque fois la réponse. Transforme cette liste en une série de flashcards avec la syntaxe de text2quiz ci-dessus. 
+Voici une liste de questions avec à chaque fois la réponse. Transforme cette liste en une série de flashcards avec la syntaxe de Text2quiz ci-dessus. 
 
 Quelles sont les quatre démarches importantes en philosophie ?
 Pour chaque démarche, quelle est la question qu'il faut se poser ?
@@ -1786,7 +1771,7 @@ Réécris le plan de cours avec tes remarques. Tu peux changer des titres si cel
 
 Bien sûr, voici une version révisée de votre plan de cours, intégrant les suggestions pour renforcer l'apprentissage et l'engagement des élèves :
 
-1. Histoire et Evolution du Web
+1. Histoire et Évolution du Web
 
 - Raconter le Web: Découverte des pionniers du Web avec anecdotes et impact sur le monde moderne.
 - Ligne du temps interactive: Création d'une chronologie collaborative des événements clés.
@@ -1868,7 +1853,7 @@ D'autres formulations avec "ce que je suis" {.user}
 
 #### 2/ Ajouter des images ou des icônes à un document
 
-:::exemple collapsible Trouver des emoji pour représenter différents modes d'apprentissage (méthode ABC Learning)
+:::exemple collapsible Trouver des emojis pour représenter différents modes d'apprentissage (méthode ABC Learning)
 
 <div markdown class="user">
 Donne-moi une idée d'emoji ou d'icône pour chaque mode d'apprentissage de la méthode ABC Learning Design
