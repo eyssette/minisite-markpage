@@ -1845,11 +1845,13 @@ En intégrant des activités pratiques, des démonstrations, des discussions de 
 
 #### 2/ Reformuler un passage
 
-:::exemple collapsible Guider l'IA pour lui faire trouver une formulation plus simple
+:::exemple collapsible Guider l'IA pour lui faire trouver une meilleure formulation
 
 <div markdown class="user">
 Formule en moins de mots cette phrase : "Le corps ne joue-t-il pas un rôle beaucoup plus fondamental dans la définition de ce que je suis ?" Fais plusieurs propositions.
 </div>
+
+<aside>C'est intéressant de préciser le type d'amélioration que l'on recherche (ici : "en moins de mots"), et de mettre à la fin "fais plusieurs propositions", pour pouvoir faire son choix.</aside>
 
 <div markdown class="IA">
 "Le corps ne définit-il pas essentiellement qui je suis ?"
@@ -1861,6 +1863,8 @@ Formule en moins de mots cette phrase : "Le corps ne joue-t-il pas un rôle beau
 </div>
 
 D'autres formulations avec "ce que je suis" {.user}
+
+<aside>On peut ajouter des contraintes en indiquant des termes ou expressions qui doivent être présentes, ou bien au contraire on aurait pu demander à éviter certains termes</aside>
 
 <div markdown class="IA">
 "Ce que je suis ne dépend-il pas essentiellement du corps ?"
