@@ -1090,7 +1090,7 @@ Le principe est d'abord d'apprendre à l'IA la syntaxe du logiciel pour ensuite 
 
 :::exemple collapsible Créer des quiz avec la syntaxe de Text2quiz
 
-<div markdown class="user>
+<div markdown class="user">
 
 Je t'explique la syntaxe de text2quiz pour rédiger un quiz, qui est la suivante :
 - pour un vrai/faux : écrire "VF || Proposition || V"  avec à la fin V si c'est vrai / F si c'est faux
