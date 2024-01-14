@@ -727,7 +727,7 @@ Ces définitions et exemples peuvent être ajustés et enrichis en fonction du n
 
 Fais-moi une fiche de vocabulaire en anglais sur le thème des droits humains. Choisis 30 termes spécifiques à cette thématique. Inclus le plus possible d'expressions idiomatiques. Donne juste le terme et sa traduction en français, sans autre explication. Présente sous forme de tableau en 2 colonnes. {.user}
 
-<div markdown class="IA>
+<div markdown class="IA">
 
 | Terme en anglais          | Traduction en français           |
 |---------------------------|---------------------------------|
@@ -771,7 +771,7 @@ Fais-moi une fiche de vocabulaire en anglais sur le thème des droits humains. C
 
 :::exemple collapsible Distinctions entre l'empire carolingien et l'empire byzantin en Histoire (5ème)
 
-Propose un tableau de distinctions entre l'empire carolingien et l'empire byzantin au niveau collège.
+Propose un tableau de distinctions entre l'empire carolingien et l'empire byzantin au niveau collège. {.user}
 
 <aside>Avec ce genre de prompt, il faut se méfier des hallucinations possibles de l'IA, mais la structuration proposée peut fournir une base intéressante</aside>
 
