@@ -32,6 +32,8 @@ Le document produit doit souvent être retravaillé, les formulations sont parfo
 
 Mais avec certaines techniques de prompt, on peut tout de même obtenir des résultats très intéressants et tout à fait exploitables.
 
+![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/creer-ressource-avec-IAG.png)
+
 ### 📅 Planification d'un cours
 
 Lorsqu'on est dans la phase de préparation d'un nouveau cours, une IA générative peut servir à explorer une thématique d'un programme.
@@ -1277,16 +1279,9 @@ Cela couvre les réponses aux questions basées sur le texte fourni. Si vous ave
 
 ### Principe général
 
-Les IA génératives peuvent créer du contenu, mais aussi transformer un contenu dans un autre format ou bien l'adapter à des contraintes spécifiques.
+Les IA génératives peuvent créer du contenu, mais aussi transformer un contenu dans un autre format (résumé, carte mentale, tableau …) ou bien l'adapter à des contraintes spécifiques par exemple dans le cadre de la différenciation pour des élèves à des besoins particuliers, ou bien pour respecter un format informatique spécifique à un logiciel.
 
-On peut ainsi utiliser l'IA pour créer à partir d'un document une synthèse sous forme :
-- d'un résumé
-- d'une carte mentale
-- d'un tableau
-
-On peut aussi utiliser l'IA dans le cadre de la différenciation afin d'adapter son document à des besoins particuliers.
-
-Les IA génératives peuvent aussi adapter le document pour qu'il respecte un format informatique spécifique (notamment des formats propres à des logiciels de quiz).
+![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/adapter-changer-format-ressource-avec-IAG.png)
 
 ### 📅 Planification d'un cours
 
@@ -1740,6 +1735,9 @@ Flashcard || Quelle est l'histoire que raconte Platon à propos de Thalès ? Que
 On peut demander à une IA générative d'analyser un document de cours afin de faire des suggestions d'amélioration soit dans le contenu abordé, soit dans la formulation.
 
 L'IA peut fonctionner ainsi comme une forme d'assistant rédactionnel et d'outil de relecture de nos documents.
+
+![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/evaluer-ameliorer-ressource-avec-IA.png)
+
 
 ### 📅 Planification d'un cours
 
