@@ -1930,7 +1930,7 @@ Un emoji d'un pinceau ou d'une palette de couleurs pour symboliser la création 
 Une enseignante moderne au tableau en train de faire son cours à des collégiens de 12 ans. Style réaliste {.user}
 
 ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_58423682ba6c2510f2af9e600d49522e.jpeg) {.IA}
-
+:::
 
 
 
