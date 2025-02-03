@@ -11,11 +11,11 @@ Nous nous concentrons ici sur les utilisations pertinentes de l'IA pour la **con
 
 > Nous avons identifié **trois gestes professionnels** essentiels : 
 > 
-> ![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/trois-gestes-professionnels.png)
+> ![](https://drane-lyon.forge.apps.education.fr/minisite/img/trois-gestes-professionnels.svg)
 > 
 > Pour chacun de ces gestes professionnels, on peut envisager **trois types d'utilisation** de l'IA :
 > 
-> ![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/trois-usages-IA.png)
+> ![](https://drane-lyon.forge.apps.education.fr/minisite/img/trois-usages-IA.svg)
 
 
 Nous vous proposons de partir de cette distinction des usages de l'IA et de vous donner des exemples de la manière dont on peut utiliser à profit l'IA d'un point de vue professionnel.
@@ -33,7 +33,7 @@ Le document produit doit souvent être retravaillé, les formulations sont parfo
 
 Mais avec certaines techniques de prompt, on peut tout de même obtenir des résultats très intéressants et tout à fait exploitables.
 
-![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/creer-ressource-avec-IAG.png)
+![](https://drane-lyon.forge.apps.education.fr/minisite/img/creer-ressource-avec-IAG.png)
 
 ### 📅 Planification d'un cours
 
@@ -1282,7 +1282,7 @@ Cela couvre les réponses aux questions basées sur le texte fourni. Si vous ave
 
 Les IA génératives peuvent créer du contenu, mais aussi transformer un contenu dans un autre format (résumé, carte mentale, tableau …) ou bien l'adapter à des contraintes spécifiques par exemple dans le cadre de la différenciation pour des élèves à des besoins particuliers, ou bien pour respecter un format informatique spécifique à un logiciel.
 
-![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/adapter-changer-format-ressource-avec-IAG.png)
+![](https://drane-lyon.forge.apps.education.fr/minisite/img/adapter-changer-format-ressource-avec-IAG.png)
 
 ### 📅 Planification d'un cours
 
@@ -1737,7 +1737,7 @@ On peut demander à une IA générative d'analyser un document de cours afin de 
 
 L'IA peut fonctionner ainsi comme une forme d'assistant rédactionnel et d'outil de relecture de nos documents.
 
-![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/evaluer-ameliorer-ressource-avec-IA.png)
+![](https://drane-lyon.forge.apps.education.fr/minisite/img/evaluer-ameliorer-ressource-avec-IA.png)
 
 
 ### 📅 Planification d'un cours
